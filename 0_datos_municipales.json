@@ -1,0 +1,2730 @@
+{
+"final":[
+ {
+  "id_dep": 1,
+  "departamento": "Guatemala",
+  "id_municipal": 101,
+  "municipio": "Guatemala",
+  "alcalde": "Ricardo  Quiñonez Lemus",
+  "partido": "UNIONISTA"
+ },
+ {
+  "id_dep": 1,
+  "departamento": "Guatemala",
+  "id_municipal": 102,
+  "municipio": "Santa Catarina Pinula",
+  "alcalde": "Sebastian  Siero Asturias",
+  "partido": "UNIONISTA"
+ },
+ {
+  "id_dep": 1,
+  "departamento": "Guatemala",
+  "id_municipal": 103,
+  "municipio": "San José Pinula",
+  "alcalde": "Miguel Angel Solares Montenegro",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 1,
+  "departamento": "Guatemala",
+  "id_municipal": 104,
+  "municipio": "San José del Golfo",
+  "alcalde": "Jose Rocael Chamale Enriquez",
+  "partido": "VAMOS"
+ },
+ {
+  "id_dep": 1,
+  "departamento": "Guatemala",
+  "id_municipal": 105,
+  "municipio": "Palencia",
+  "alcalde": "Guadalupe Alberto Reyes Aguilar",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 1,
+  "departamento": "Guatemala",
+  "id_municipal": 106,
+  "municipio": "Chinautla",
+  "alcalde": "Brenda Elizabeth Del Cid Medrano Montiel",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 1,
+  "departamento": "Guatemala",
+  "id_municipal": 107,
+  "municipio": "San Pedro Ayampuc",
+  "alcalde": "Jose Fredy Pelaez Avalos",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 1,
+  "departamento": "Guatemala",
+  "id_municipal": 108,
+  "municipio": "Mixco",
+  "alcalde": "Neto  Bran Montenegro",
+  "partido": "TODOS"
+ },
+ {
+  "id_dep": 1,
+  "departamento": "Guatemala",
+  "id_municipal": 109,
+  "municipio": "San Pedro Sacatepéquez",
+  "alcalde": "Noe Leopoldo Boror Hernandez",
+  "partido": "CREO"
+ },
+ {
+  "id_dep": 1,
+  "departamento": "Guatemala",
+  "id_municipal": 110,
+  "municipio": "San Juan Sacatepéquez",
+  "alcalde": "Juan Carlos Pellecer Agustin",
+  "partido": "TODOS"
+ },
+ {
+  "id_dep": 1,
+  "departamento": "Guatemala",
+  "id_municipal": 111,
+  "municipio": "San Raymundo",
+  "alcalde": "Joel Humberto Choy Yoc",
+  "partido": "UCN"
+ },
+ {
+  "id_dep": 1,
+  "departamento": "Guatemala",
+  "id_municipal": 112,
+  "municipio": "Chuarrancho",
+  "alcalde": "Alejandro  Gonzalez Xajap",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 1,
+  "departamento": "Guatemala",
+  "id_municipal": 113,
+  "municipio": "Fraijanes",
+  "alcalde": "Wilton Leonardo Berreondo Figueroa",
+  "partido": "PHG"
+ },
+ {
+  "id_dep": 1,
+  "departamento": "Guatemala",
+  "id_municipal": 114,
+  "municipio": "Amatitlán",
+  "alcalde": "Mainor Guillermo Orellana Mazariegos",
+  "partido": "VALOR"
+ },
+ {
+  "id_dep": 1,
+  "departamento": "Guatemala",
+  "id_municipal": 115,
+  "municipio": "Villa Nueva",
+  "alcalde": "Javier Alejandro Gramajo Escobar",
+  "partido": "FUERZA"
+ },
+ {
+  "id_dep": 1,
+  "departamento": "Guatemala",
+  "id_municipal": 116,
+  "municipio": "Villa Canales",
+  "alcalde": "Julio Daniel Marroquin Ordoñez",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 1,
+  "departamento": "Guatemala",
+  "id_municipal": 117,
+  "municipio": "San Miguel Petapa",
+  "alcalde": "Mynor Rolando Morales Chavez",
+  "partido": "VALOR"
+ },
+ {
+  "id_dep": 2,
+  "departamento": "El Progreso",
+  "id_municipal": 201,
+  "municipio": "Guastatoya",
+  "alcalde": "Jorge Antonio Orellana Pinto",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 2,
+  "departamento": "El Progreso",
+  "id_municipal": 202,
+  "municipio": "Morazán",
+  "alcalde": "Marco Tulio Arriaza Cordova",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 2,
+  "departamento": "El Progreso",
+  "id_municipal": 203,
+  "municipio": "San Agustín Acasaguastlán",
+  "alcalde": "Jose Manuel Marroquin Hichos",
+  "partido": "PHG"
+ },
+ {
+  "id_dep": 2,
+  "departamento": "El Progreso",
+  "id_municipal": 204,
+  "municipio": "San Cristóbal Acasaguastlán",
+  "alcalde": "Edgar Humberto Castañeda Ruano",
+  "partido": "CREO"
+ },
+ {
+  "id_dep": 2,
+  "departamento": "El Progreso",
+  "id_municipal": 205,
+  "municipio": "El Jícaro",
+  "alcalde": "Jose Francisco Mejia Flores",
+  "partido": "PC"
+ },
+ {
+  "id_dep": 2,
+  "departamento": "El Progreso",
+  "id_municipal": 206,
+  "municipio": "Sansare",
+  "alcalde": "Alex Donaldo Castañeda Mejia",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 2,
+  "departamento": "El Progreso",
+  "id_municipal": 207,
+  "municipio": "Sanarate",
+  "alcalde": "Victor Israel Guerra Zavala",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 2,
+  "departamento": "El Progreso",
+  "id_municipal": 208,
+  "municipio": "San Antonio La Paz",
+  "alcalde": "Nubere Agustin Lopez Lopez",
+  "partido": "VAMOS"
+ },
+ {
+  "id_dep": 3,
+  "departamento": "Sacatepéquez",
+  "id_municipal": 301,
+  "municipio": "Antigua Guatemala",
+  "alcalde": "Victor Hugo Del Pozo Coronado",
+  "partido": "TODOS"
+ },
+ {
+  "id_dep": 3,
+  "departamento": "Sacatepéquez",
+  "id_municipal": 302,
+  "municipio": "Jocotenango",
+  "alcalde": "Marcus Alexander Gonzalez Perez",
+  "partido": "MarCus"
+ },
+ {
+  "id_dep": 3,
+  "departamento": "Sacatepéquez",
+  "id_municipal": 303,
+  "municipio": "Pastores",
+  "alcalde": "Hugo Leonel Mendoza Reyes",
+  "partido": "MUP"
+ },
+ {
+  "id_dep": 3,
+  "departamento": "Sacatepéquez",
+  "id_municipal": 304,
+  "municipio": "Sumpango",
+  "alcalde": "Carlos Enrique Cubur Sula",
+  "partido": "CCSS"
+ },
+ {
+  "id_dep": 3,
+  "departamento": "Sacatepéquez",
+  "id_municipal": 305,
+  "municipio": "Santo Domingo Xenacoj",
+  "alcalde": "David Aniceto Aquino Chocoyo",
+  "partido": "FUERZA"
+ },
+ {
+  "id_dep": 3,
+  "departamento": "Sacatepéquez",
+  "id_municipal": 306,
+  "municipio": "Santiago Sacatepéquez",
+  "alcalde": "Salomon  Itzol Pec",
+  "partido": "FUERZA"
+ },
+ {
+  "id_dep": 3,
+  "departamento": "Sacatepéquez",
+  "id_municipal": 307,
+  "municipio": "San Bartolomé Milpas Altas",
+  "alcalde": "Rosalio  Axpuac Martinez",
+  "partido": "PC"
+ },
+ {
+  "id_dep": 3,
+  "departamento": "Sacatepéquez",
+  "id_municipal": 308,
+  "municipio": "San Lucas Sacatepéquez",
+  "alcalde": "Jorge Adan Rodriguez Dieguez",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 3,
+  "departamento": "Sacatepéquez",
+  "id_municipal": 309,
+  "municipio": "Santa Lucía Milpas Altas",
+  "alcalde": "Augusto Agustin Vicente",
+  "partido": "TODOS"
+ },
+ {
+  "id_dep": 3,
+  "departamento": "Sacatepéquez",
+  "id_municipal": 310,
+  "municipio": "Magdalena Milpas Altas",
+  "alcalde": "Juan Francisco Perez Mendez",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 3,
+  "departamento": "Sacatepéquez",
+  "id_municipal": 311,
+  "municipio": "Santa María de Jesús",
+  "alcalde": "Daniel  Sunun Sica",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 3,
+  "departamento": "Sacatepéquez",
+  "id_municipal": 312,
+  "municipio": "Ciudad Vieja",
+  "alcalde": "Clemente Federico Arturo Bethancourt Sanchez",
+  "partido": "LIBRE"
+ },
+ {
+  "id_dep": 3,
+  "departamento": "Sacatepéquez",
+  "id_municipal": 313,
+  "municipio": "San Miguel Dueñas",
+  "alcalde": "Jose Otilio Barrientos Cabrera",
+  "partido": "UNIONISTA"
+ },
+ {
+  "id_dep": 3,
+  "departamento": "Sacatepéquez",
+  "id_municipal": 314,
+  "municipio": "Alotenango",
+  "alcalde": "Sergio Gonzalo Sul Civil",
+  "partido": "UNIDOS"
+ },
+ {
+  "id_dep": 3,
+  "departamento": "Sacatepéquez",
+  "id_municipal": 315,
+  "municipio": "San Antonio Aguas Calientes",
+  "alcalde": "Elwin  Hernandez Zamora",
+  "partido": "PC"
+ },
+ {
+  "id_dep": 3,
+  "departamento": "Sacatepéquez",
+  "id_municipal": 316,
+  "municipio": "Santa Catarina Barahona",
+  "alcalde": "Elmer Neftali Ordoñez Lopez",
+  "partido": "TODOS"
+ },
+ {
+  "id_dep": 4,
+  "departamento": "Chimaltenango",
+  "id_municipal": 401,
+  "municipio": "Chimaltenango",
+  "alcalde": "Carlos Alexander Simaj Chan",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 4,
+  "departamento": "Chimaltenango",
+  "id_municipal": 402,
+  "municipio": "San José Poaquil",
+  "alcalde": "Carlos  Similox Sisimit",
+  "partido": "VAMOS"
+ },
+ {
+  "id_dep": 4,
+  "departamento": "Chimaltenango",
+  "id_municipal": 403,
+  "municipio": "San Martín Jilotepeque",
+  "alcalde": "Bartolome  Chocoj Camey",
+  "partido": "MAS UNIDOS"
+ },
+ {
+  "id_dep": 4,
+  "departamento": "Chimaltenango",
+  "id_municipal": 404,
+  "municipio": "San Juan Comalapa",
+  "alcalde": "Justo Rufino Similox Pichiya",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 4,
+  "departamento": "Chimaltenango",
+  "id_municipal": 405,
+  "municipio": "Santa Apolonia",
+  "alcalde": "Francisco  Tepaz Aju",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 4,
+  "departamento": "Chimaltenango",
+  "id_municipal": 406,
+  "municipio": "Tecpán Guatemala",
+  "alcalde": "Obispo Pablo Puac Puac",
+  "partido": "TRIGO"
+ },
+ {
+  "id_dep": 4,
+  "departamento": "Chimaltenango",
+  "id_municipal": 407,
+  "municipio": "Patzún",
+  "alcalde": "Guadalupe  Cojti Xulu",
+  "partido": "VAMOS"
+ },
+ {
+  "id_dep": 4,
+  "departamento": "Chimaltenango",
+  "id_municipal": 408,
+  "municipio": "San Miguel Pochuta",
+  "alcalde": "Jose Benjamin Vasquez Reyes",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 4,
+  "departamento": "Chimaltenango",
+  "id_municipal": 409,
+  "municipio": "Patzicía",
+  "alcalde": "Joel Justiniano Esquit Sanum",
+  "partido": "VAMOS"
+ },
+ {
+  "id_dep": 4,
+  "departamento": "Chimaltenango",
+  "id_municipal": 410,
+  "municipio": "Santa Cruz Balanyá",
+  "alcalde": "Enio Oswaldo Juarez Roquel",
+  "partido": "PC"
+ },
+ {
+  "id_dep": 4,
+  "departamento": "Chimaltenango",
+  "id_municipal": 411,
+  "municipio": "Acatenango",
+  "alcalde": "Isaias  Marroquin Figueroa",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 4,
+  "departamento": "Chimaltenango",
+  "id_municipal": 412,
+  "municipio": "San Pedro Yepocapa",
+  "alcalde": "Bernabe  Ajin Vicente",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 4,
+  "departamento": "Chimaltenango",
+  "id_municipal": 413,
+  "municipio": "San Andrés Itzapa",
+  "alcalde": "Francisco  Tojin Vasquez",
+  "partido": "C.C.I.H."
+ },
+ {
+  "id_dep": 4,
+  "departamento": "Chimaltenango",
+  "id_municipal": 414,
+  "municipio": "Parramos",
+  "alcalde": "Alicia  Mendez Gonzalez Castañeda",
+  "partido": "PODEMOS"
+ },
+ {
+  "id_dep": 4,
+  "departamento": "Chimaltenango",
+  "id_municipal": 415,
+  "municipio": "Zaragoza",
+  "alcalde": "Hugo Leonel Perez Melendez",
+  "partido": "Zaragoza por Siempre"
+ },
+ {
+  "id_dep": 4,
+  "departamento": "Chimaltenango",
+  "id_municipal": 416,
+  "municipio": "El Tejar",
+  "alcalde": "Julio Axel Figueroa Muñoz",
+  "partido": "FCN-NACION"
+ },
+ {
+  "id_dep": 5,
+  "departamento": "Escuintla",
+  "id_municipal": 501,
+  "municipio": "Escuintla",
+  "alcalde": "Edgar Abraham Rivera Estevez",
+  "partido": "VICTORIA"
+ },
+ {
+  "id_dep": 5,
+  "departamento": "Escuintla",
+  "id_municipal": 502,
+  "municipio": "Santa Lucía Cotzulmalguapa",
+  "alcalde": "Romeo  Ramos Cruz",
+  "partido": "PPT"
+ },
+ {
+  "id_dep": 5,
+  "departamento": "Escuintla",
+  "id_municipal": 503,
+  "municipio": "La Democracia",
+  "alcalde": "Dora Aldina Perez Martinez",
+  "partido": "PODEMOS"
+ },
+ {
+  "id_dep": 5,
+  "departamento": "Escuintla",
+  "id_municipal": 504,
+  "municipio": "Siquinalá",
+  "alcalde": "Edgar Roberto Alvarez Veliz",
+  "partido": "CREO"
+ },
+ {
+  "id_dep": 5,
+  "departamento": "Escuintla",
+  "id_municipal": 505,
+  "municipio": "Masagua",
+  "alcalde": "Aura Marina Orantes Gaitan De Bran",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 5,
+  "departamento": "Escuintla",
+  "id_municipal": 506,
+  "municipio": "Tiquisate",
+  "alcalde": "Juan Francisco Carias Vivar",
+  "partido": "UCN"
+ },
+ {
+  "id_dep": 5,
+  "departamento": "Escuintla",
+  "id_municipal": 507,
+  "municipio": "La Gomera",
+  "alcalde": "Floridalma  Morales Contreras",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 5,
+  "departamento": "Escuintla",
+  "id_municipal": 508,
+  "municipio": "Guanagazapa",
+  "alcalde": "Weimer Wuilfredo Reyes Castillo",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 5,
+  "departamento": "Escuintla",
+  "id_municipal": 509,
+  "municipio": "San José",
+  "alcalde": "Marco Vinicio Najarro Cruz",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 5,
+  "departamento": "Escuintla",
+  "id_municipal": 510,
+  "municipio": "Iztapa",
+  "alcalde": "Mario Rolando Mejia Alfaro",
+  "partido": "PC"
+ },
+ {
+  "id_dep": 5,
+  "departamento": "Escuintla",
+  "id_municipal": 511,
+  "municipio": "Palín",
+  "alcalde": "Jose Ricardo Quezada",
+  "partido": "VAMOS"
+ },
+ {
+  "id_dep": 5,
+  "departamento": "Escuintla",
+  "id_municipal": 512,
+  "municipio": "San Vicente Pacaya",
+  "alcalde": "Axel Catalino Gonzalez",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 5,
+  "departamento": "Escuintla",
+  "id_municipal": 513,
+  "municipio": "Nueva Concepción",
+  "alcalde": "Jose Adolfo Posuelos Suarez",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 5,
+  "departamento": "Escuintla",
+  "id_municipal": 514,
+  "municipio": "Sipacate",
+  "alcalde": "Walter Orlando Najera Gonzalez",
+  "partido": "FCN-NACION"
+ },
+ {
+  "id_dep": 6,
+  "departamento": "Santa Rosa",
+  "id_municipal": 601,
+  "municipio": "Cuilapa",
+  "alcalde": "Esvin Fernando Marroquin Tupas",
+  "partido": "PC"
+ },
+ {
+  "id_dep": 6,
+  "departamento": "Santa Rosa",
+  "id_municipal": 602,
+  "municipio": "Barberena",
+  "alcalde": "Rubelio  Recinos Corea",
+  "partido": "UNIONISTA"
+ },
+ {
+  "id_dep": 6,
+  "departamento": "Santa Rosa",
+  "id_municipal": 603,
+  "municipio": "Santa Rosa de Lima",
+  "alcalde": "Llan Carlos Davila Arevalo",
+  "partido": "CCS"
+ },
+ {
+  "id_dep": 6,
+  "departamento": "Santa Rosa",
+  "id_municipal": 604,
+  "municipio": "Casillas",
+  "alcalde": "Dayri Benjamin Bocanegra Salazar",
+  "partido": "UCN"
+ },
+ {
+  "id_dep": 6,
+  "departamento": "Santa Rosa",
+  "id_municipal": 605,
+  "municipio": "San Rafael Las Flores",
+  "alcalde": "Roberto De Jesus Pivaral Y Pivaral",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 6,
+  "departamento": "Santa Rosa",
+  "id_municipal": 606,
+  "municipio": "Oratorio",
+  "alcalde": "Ely Yovany Orozco Martinez",
+  "partido": "PC"
+ },
+ {
+  "id_dep": 6,
+  "departamento": "Santa Rosa",
+  "id_municipal": 607,
+  "municipio": "San Juan Tecuaco",
+  "alcalde": "Wilian Alonzo Garcia Y Garcia",
+  "partido": "UCN"
+ },
+ {
+  "id_dep": 6,
+  "departamento": "Santa Rosa",
+  "id_municipal": 608,
+  "municipio": "Chiquimulilla",
+  "alcalde": "Ruben Dario Escobar Ruiz",
+  "partido": "PC"
+ },
+ {
+  "id_dep": 6,
+  "departamento": "Santa Rosa",
+  "id_municipal": 609,
+  "municipio": "Taxisco",
+  "alcalde": "Uben  Castillo Orantes",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 6,
+  "departamento": "Santa Rosa",
+  "id_municipal": 610,
+  "municipio": "Santa María Ixhuatán",
+  "alcalde": "Jorge Alexis Quevedo Divas",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 6,
+  "departamento": "Santa Rosa",
+  "id_municipal": 611,
+  "municipio": "Guazacapán",
+  "alcalde": "Francisco  Orantes",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 6,
+  "departamento": "Santa Rosa",
+  "id_municipal": 612,
+  "municipio": "Santa Cruz Naranjo",
+  "alcalde": "Carlos Salvador Rodriguez Revolorio",
+  "partido": "CCS"
+ },
+ {
+  "id_dep": 6,
+  "departamento": "Santa Rosa",
+  "id_municipal": 613,
+  "municipio": "Pueblo Nuevo Viñas",
+  "alcalde": "Cristiams Josue Blanco Fajardo",
+  "partido": "UCN"
+ },
+ {
+  "id_dep": 6,
+  "departamento": "Santa Rosa",
+  "id_municipal": 614,
+  "municipio": "Nueva Santa Rosa",
+  "alcalde": "Jose Enrrique Arredondo Amaya",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 7,
+  "departamento": "Sololá",
+  "id_municipal": 701,
+  "municipio": "Sololá",
+  "alcalde": "Carlos Humberto Guarquez Ajiquichi",
+  "partido": "URNG MAIZ"
+ },
+ {
+  "id_dep": 7,
+  "departamento": "Sololá",
+  "id_municipal": 702,
+  "municipio": "San José Chacayá",
+  "alcalde": "Luis Florencio Garcia Chuta",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 7,
+  "departamento": "Sololá",
+  "id_municipal": 703,
+  "municipio": "Santa María Visitación",
+  "alcalde": "Mario Roberto Dionisio Dionisio",
+  "partido": "VAMOS"
+ },
+ {
+  "id_dep": 7,
+  "departamento": "Sololá",
+  "id_municipal": 704,
+  "municipio": "Santa Lucía Utatlán",
+  "alcalde": "Macario Encarnacion Joj Yac",
+  "partido": "VIVA"
+ },
+ {
+  "id_dep": 7,
+  "departamento": "Sololá",
+  "id_municipal": 705,
+  "municipio": "Nahualá",
+  "alcalde": "Manuel  Guarchaj Tzep",
+  "partido": "VAMOS"
+ },
+ {
+  "id_dep": 7,
+  "departamento": "Sololá",
+  "id_municipal": 706,
+  "municipio": "Santa Catarina Ixtahuacán",
+  "alcalde": "Pascual  Tambriz Tzep",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 7,
+  "departamento": "Sololá",
+  "id_municipal": 707,
+  "municipio": "Santa Clara La Laguna",
+  "alcalde": "Francisco  Chavajay Saquic",
+  "partido": "UCN"
+ },
+ {
+  "id_dep": 7,
+  "departamento": "Sololá",
+  "id_municipal": 708,
+  "municipio": "Concepción",
+  "alcalde": "Pedro  Juracan Leja",
+  "partido": "FUERZA"
+ },
+ {
+  "id_dep": 7,
+  "departamento": "Sololá",
+  "id_municipal": 709,
+  "municipio": "San Andrés Semetabaj",
+  "alcalde": "Gaspar  Chumil Morales",
+  "partido": "URNG MAIZ"
+ },
+ {
+  "id_dep": 7,
+  "departamento": "Sololá",
+  "id_municipal": 710,
+  "municipio": "Panajachel",
+  "alcalde": "Cesar Pablo Piedrasanta Rodriguez",
+  "partido": "PC"
+ },
+ {
+  "id_dep": 7,
+  "departamento": "Sololá",
+  "id_municipal": 711,
+  "municipio": "Santa Catarina Palopó",
+  "alcalde": "Cruz  Sajvin Ordoñez",
+  "partido": "VAMOS"
+ },
+ {
+  "id_dep": 7,
+  "departamento": "Sololá",
+  "id_municipal": 712,
+  "municipio": "San Antonio Palopó",
+  "alcalde": "Anibal Beltran Carrillo Motta",
+  "partido": "CREO"
+ },
+ {
+  "id_dep": 7,
+  "departamento": "Sololá",
+  "id_municipal": 713,
+  "municipio": "San Lucas Tolimán",
+  "alcalde": "Jonatan  Lopez Pacheco",
+  "partido": "CCEA"
+ },
+ {
+  "id_dep": 7,
+  "departamento": "Sololá",
+  "id_municipal": 714,
+  "municipio": "Santa Cruz La Laguna",
+  "alcalde": "Bartolo  Simaj Balcot",
+  "partido": "FUERZA"
+ },
+ {
+  "id_dep": 7,
+  "departamento": "Sololá",
+  "id_municipal": 715,
+  "municipio": "San Pablo La Laguna",
+  "alcalde": "Juan  Ujpan Piy",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 7,
+  "departamento": "Sololá",
+  "id_municipal": 716,
+  "municipio": "San Marcos La Laguna",
+  "alcalde": "Vicente Raul Puzul Mendoza",
+  "partido": "PHG"
+ },
+ {
+  "id_dep": 7,
+  "departamento": "Sololá",
+  "id_municipal": 717,
+  "municipio": "San Juan La Laguna",
+  "alcalde": "Flavio Jose Yojcom Garcia",
+  "partido": "VAMOS"
+ },
+ {
+  "id_dep": 7,
+  "departamento": "Sololá",
+  "id_municipal": 718,
+  "municipio": "San Pedro La Laguna",
+  "alcalde": "Edwin Mauricio Mendez Puac",
+  "partido": "URNG MAIZ"
+ },
+ {
+  "id_dep": 7,
+  "departamento": "Sololá",
+  "id_municipal": 719,
+  "municipio": "Santiago Atitlán",
+  "alcalde": "Bartolome  Ajchomajay Tacaxoy",
+  "partido": "VAMOS"
+ },
+ {
+  "id_dep": 8,
+  "departamento": "Totonicapán",
+  "id_municipal": 801,
+  "municipio": "Totonicapán",
+  "alcalde": "Luis Alfredo Herrera Amado",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 8,
+  "departamento": "Totonicapán",
+  "id_municipal": 802,
+  "municipio": "San Cristóbal Totonicapán",
+  "alcalde": "Gaspar  Chay Hic",
+  "partido": "FCN-NACION"
+ },
+ {
+  "id_dep": 8,
+  "departamento": "Totonicapán",
+  "id_municipal": 803,
+  "municipio": "San Francisco El Alto",
+  "alcalde": "Jose Manuel Gomez Garcia",
+  "partido": "VAMOS"
+ },
+ {
+  "id_dep": 8,
+  "departamento": "Totonicapán",
+  "id_municipal": 804,
+  "municipio": "San Andrés Xecul",
+  "alcalde": "Faustino Ricardo Chan Cux",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 8,
+  "departamento": "Totonicapán",
+  "id_municipal": 805,
+  "municipio": "Momostenango",
+  "alcalde": "Santiago  Vicente Chanchavac",
+  "partido": "TODOS"
+ },
+ {
+  "id_dep": 8,
+  "departamento": "Totonicapán",
+  "id_municipal": 806,
+  "municipio": "Santa María Chiquimula",
+  "alcalde": "Juan Justo Lux Carrillo",
+  "partido": "VICTORIA"
+ },
+ {
+  "id_dep": 8,
+  "departamento": "Totonicapán",
+  "id_municipal": 807,
+  "municipio": "Santa Lucía La Reforma",
+  "alcalde": "Pedro  Osorio Quinillo",
+  "partido": "VAMOS"
+ },
+ {
+  "id_dep": 8,
+  "departamento": "Totonicapán",
+  "id_municipal": 808,
+  "municipio": "San Bartolo Aguas Calientes",
+  "alcalde": "Rudy Eduardo Chun Perez",
+  "partido": "VAMOS"
+ },
+ {
+  "id_dep": 9,
+  "departamento": "Quetzaltenango",
+  "id_municipal": 901,
+  "municipio": "Quetzaltenango",
+  "alcalde": "Juan Fernando Lopez Fuentes",
+  "partido": "PHG"
+ },
+ {
+  "id_dep": 9,
+  "departamento": "Quetzaltenango",
+  "id_municipal": 902,
+  "municipio": "Salcajá",
+  "alcalde": "Rolando Miguel Ovalle Barrios",
+  "partido": "CREO"
+ },
+ {
+  "id_dep": 9,
+  "departamento": "Quetzaltenango",
+  "id_municipal": 903,
+  "municipio": "Olintepeque",
+  "alcalde": "Carlos Enrique Baten Gomez",
+  "partido": "BIEN"
+ },
+ {
+  "id_dep": 9,
+  "departamento": "Quetzaltenango",
+  "id_municipal": 904,
+  "municipio": "San Carlos Sija",
+  "alcalde": "Hugo Arlando Garcia Mazariegos",
+  "partido": "VALOR"
+ },
+ {
+  "id_dep": 9,
+  "departamento": "Quetzaltenango",
+  "id_municipal": 905,
+  "municipio": "Sibilia",
+  "alcalde": "Gelver Facundo Ochoa Gramajo",
+  "partido": "TODOS"
+ },
+ {
+  "id_dep": 9,
+  "departamento": "Quetzaltenango",
+  "id_municipal": 906,
+  "municipio": "Cabricán",
+  "alcalde": "Eleazar Esau Lopez Y Lopez",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 9,
+  "departamento": "Quetzaltenango",
+  "id_municipal": 907,
+  "municipio": "Cajolá",
+  "alcalde": "Juan  Gomez Lopez",
+  "partido": "FCN-NACION"
+ },
+ {
+  "id_dep": 9,
+  "departamento": "Quetzaltenango",
+  "id_municipal": 908,
+  "municipio": "San Miguel Sigüila",
+  "alcalde": "Anibal  Diaz Vicente",
+  "partido": "CREO"
+ },
+ {
+  "id_dep": 9,
+  "departamento": "Quetzaltenango",
+  "id_municipal": 909,
+  "municipio": "San Juan Ostuncalco",
+  "alcalde": "Felix Luis Marroquin Escalante",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 9,
+  "departamento": "Quetzaltenango",
+  "id_municipal": 910,
+  "municipio": "San Mateo",
+  "alcalde": "Elvin Yobany Cifuentes Escobar",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 9,
+  "departamento": "Quetzaltenango",
+  "id_municipal": 911,
+  "municipio": "Concepción Chiquirichapa",
+  "alcalde": "Remigio  Hernandez Lorenzo",
+  "partido": "PAPA"
+ },
+ {
+  "id_dep": 9,
+  "departamento": "Quetzaltenango",
+  "id_municipal": 912,
+  "municipio": "San Martín Sacatepéquez",
+  "alcalde": "Juan  De Leon Salez",
+  "partido": "VIVA"
+ },
+ {
+  "id_dep": 9,
+  "departamento": "Quetzaltenango",
+  "id_municipal": 913,
+  "municipio": "Almolonga",
+  "alcalde": "Oscar Paul Gonon Nimatuj",
+  "partido": "VAMOS"
+ },
+ {
+  "id_dep": 9,
+  "departamento": "Quetzaltenango",
+  "id_municipal": 914,
+  "municipio": "Cantel",
+  "alcalde": "David Joel Chojolan Zorin",
+  "partido": "TODOS"
+ },
+ {
+  "id_dep": 9,
+  "departamento": "Quetzaltenango",
+  "id_municipal": 915,
+  "municipio": "Huitán",
+  "alcalde": "Cesar Augusto Calderon Lopez",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 9,
+  "departamento": "Quetzaltenango",
+  "id_municipal": 916,
+  "municipio": "Zunil",
+  "alcalde": "Julio Cesar Xicay Poz",
+  "partido": "BIEN"
+ },
+ {
+  "id_dep": 9,
+  "departamento": "Quetzaltenango",
+  "id_municipal": 917,
+  "municipio": "Colomba",
+  "alcalde": "Isidro Herminio Castillo Diaz",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 9,
+  "departamento": "Quetzaltenango",
+  "id_municipal": 918,
+  "municipio": "San Francisco La Unión",
+  "alcalde": "Juan Anacleto Hernandez Huinac",
+  "partido": "VIVA"
+ },
+ {
+  "id_dep": 9,
+  "departamento": "Quetzaltenango",
+  "id_municipal": 919,
+  "municipio": "El Palmar",
+  "alcalde": "Rene Haroldo Ramirez Mendez",
+  "partido": "VALOR"
+ },
+ {
+  "id_dep": 9,
+  "departamento": "Quetzaltenango",
+  "id_municipal": 920,
+  "municipio": "Coatepeque",
+  "alcalde": "Alfonso  Garcia Junco Hemmerling",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 9,
+  "departamento": "Quetzaltenango",
+  "id_municipal": 921,
+  "municipio": "Génova",
+  "alcalde": "Edgar Amilcar Escalante Morales",
+  "partido": "VALOR"
+ },
+ {
+  "id_dep": 9,
+  "departamento": "Quetzaltenango",
+  "id_municipal": 922,
+  "municipio": "Flores Costa Cuca",
+  "alcalde": "Mario Rene Lozano Giron",
+  "partido": "VAMOS"
+ },
+ {
+  "id_dep": 9,
+  "departamento": "Quetzaltenango",
+  "id_municipal": 923,
+  "municipio": "La Esperanza",
+  "alcalde": "Abrahim  Zelada Lopez",
+  "partido": "TODOS"
+ },
+ {
+  "id_dep": 9,
+  "departamento": "Quetzaltenango",
+  "id_municipal": 924,
+  "municipio": "Palestina de los Altos",
+  "alcalde": "Ini Velter Morales Castillo",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 10,
+  "departamento": "Suchitepéquez",
+  "id_municipal": 1001,
+  "municipio": "Mazatenango",
+  "alcalde": "Manuel De Jesus Delgado Sagarminaga",
+  "partido": "C.C.C."
+ },
+ {
+  "id_dep": 10,
+  "departamento": "Suchitepéquez",
+  "id_municipal": 1002,
+  "municipio": "Cuyotenango",
+  "alcalde": "Jorge Arturo Reyes Ceballos",
+  "partido": "UCN"
+ },
+ {
+  "id_dep": 10,
+  "departamento": "Suchitepéquez",
+  "id_municipal": 1003,
+  "municipio": "San Francisco Zapotitlán",
+  "alcalde": "Carlos Rene Chavez Kestler",
+  "partido": "UCN"
+ },
+ {
+  "id_dep": 10,
+  "departamento": "Suchitepéquez",
+  "id_municipal": 1004,
+  "municipio": "San Bernardino",
+  "alcalde": "Lorenzo  Ignacio Santos",
+  "partido": "URNG MAIZ"
+ },
+ {
+  "id_dep": 10,
+  "departamento": "Suchitepéquez",
+  "id_municipal": 1005,
+  "municipio": "San José El Ídolo",
+  "alcalde": "Alfredo  Oliva Lam",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 10,
+  "departamento": "Suchitepéquez",
+  "id_municipal": 1006,
+  "municipio": "Santo Domingo Suchitepéquez",
+  "alcalde": "Marvin Gustavo Perez Gualip",
+  "partido": "UCN"
+ },
+ {
+  "id_dep": 10,
+  "departamento": "Suchitepéquez",
+  "id_municipal": 1007,
+  "municipio": "San Lorenzo",
+  "alcalde": "Henry Estuardo Ayala Dardon",
+  "partido": "FCN-NACION"
+ },
+ {
+  "id_dep": 10,
+  "departamento": "Suchitepéquez",
+  "id_municipal": 1008,
+  "municipio": "Samayac",
+  "alcalde": "Camilo Felipe Hernandez Lopez",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 10,
+  "departamento": "Suchitepéquez",
+  "id_municipal": 1009,
+  "municipio": "San Pablo Jocopilas",
+  "alcalde": "Melvin Paolo Macario Taquiej",
+  "partido": "UCN"
+ },
+ {
+  "id_dep": 10,
+  "departamento": "Suchitepéquez",
+  "id_municipal": 1010,
+  "municipio": "San Antonio Suchitepéquez",
+  "alcalde": "Edgar Mauricio Ovalle Siguan",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 10,
+  "departamento": "Suchitepéquez",
+  "id_municipal": 1011,
+  "municipio": "San Miguel Panán",
+  "alcalde": "Gilberto Rocael Arauz Cal",
+  "partido": "UCN"
+ },
+ {
+  "id_dep": 10,
+  "departamento": "Suchitepéquez",
+  "id_municipal": 1012,
+  "municipio": "San Gabriel",
+  "alcalde": "Remigio  Noj Ramos",
+  "partido": "PHG"
+ },
+ {
+  "id_dep": 10,
+  "departamento": "Suchitepéquez",
+  "id_municipal": 1013,
+  "municipio": "Chicacao",
+  "alcalde": "Uri Antulio Maldonado De Leon",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 10,
+  "departamento": "Suchitepéquez",
+  "id_municipal": 1014,
+  "municipio": "Patulul",
+  "alcalde": "Cesar Augusto Calderon Uribio",
+  "partido": "PAN"
+ },
+ {
+  "id_dep": 10,
+  "departamento": "Suchitepéquez",
+  "id_municipal": 1015,
+  "municipio": "Santa Bárbara",
+  "alcalde": "Efrain  Coche Gonzalez",
+  "partido": "UCN"
+ },
+ {
+  "id_dep": 10,
+  "departamento": "Suchitepéquez",
+  "id_municipal": 1016,
+  "municipio": "San Juan Bautista",
+  "alcalde": "Victor Haroldo Oviedo Ajcalon",
+  "partido": "PC"
+ },
+ {
+  "id_dep": 10,
+  "departamento": "Suchitepéquez",
+  "id_municipal": 1017,
+  "municipio": "Santo Tomas La Unión",
+  "alcalde": "Pedro Augusto Chavaloc Aguilar",
+  "partido": "SEMILLA"
+ },
+ {
+  "id_dep": 10,
+  "departamento": "Suchitepéquez",
+  "id_municipal": 1018,
+  "municipio": "Zunilito",
+  "alcalde": "Rudi Eduardo Edelman Cop",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 10,
+  "departamento": "Suchitepéquez",
+  "id_municipal": 1019,
+  "municipio": "Pueblo Nuevo",
+  "alcalde": "Diego  Lux Lux",
+  "partido": "PHG"
+ },
+ {
+  "id_dep": 10,
+  "departamento": "Suchitepéquez",
+  "id_municipal": 1020,
+  "municipio": "Río Bravo",
+  "alcalde": "Juan Francisco Lopez Diaz",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 10,
+  "departamento": "Suchitepéquez",
+  "id_municipal": 1021,
+  "municipio": "San José La Máquina",
+  "alcalde": "Alberto  Martinez Lopez",
+  "partido": "SEMILLA"
+ },
+ {
+  "id_dep": 11,
+  "departamento": "Retalhuleu",
+  "id_municipal": 1101,
+  "municipio": "Retalhuleu",
+  "alcalde": "Pablo Jose Villatoro Flores",
+  "partido": "BIEN"
+ },
+ {
+  "id_dep": 11,
+  "departamento": "Retalhuleu",
+  "id_municipal": 1102,
+  "municipio": "San Sebastián",
+  "alcalde": "Oscar David Taleon Alban",
+  "partido": "VALOR"
+ },
+ {
+  "id_dep": 11,
+  "departamento": "Retalhuleu",
+  "id_municipal": 1103,
+  "municipio": "Santa Cruz Muluá",
+  "alcalde": "Elio Francisco Puac Castillo",
+  "partido": "VALOR"
+ },
+ {
+  "id_dep": 11,
+  "departamento": "Retalhuleu",
+  "id_municipal": 1104,
+  "municipio": "San Martín Zapotitlán",
+  "alcalde": "Blanca Estela Mendoza Mendez",
+  "partido": "TODOS"
+ },
+ {
+  "id_dep": 11,
+  "departamento": "Retalhuleu",
+  "id_municipal": 1105,
+  "municipio": "San Felipe Retalhuleu",
+  "alcalde": "Adonias Jehu Salazar Quezada",
+  "partido": "VALOR"
+ },
+ {
+  "id_dep": 11,
+  "departamento": "Retalhuleu",
+  "id_municipal": 1106,
+  "municipio": "San Andrés Villa Seca",
+  "alcalde": "Marco Tulio De Leon Solares",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 11,
+  "departamento": "Retalhuleu",
+  "id_municipal": 1107,
+  "municipio": "Champerico",
+  "alcalde": "Rosalio  Lopez Lopez",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 11,
+  "departamento": "Retalhuleu",
+  "id_municipal": 1108,
+  "municipio": "Nuevo San Carlos",
+  "alcalde": "Juan Carlos Escobar Maldonado",
+  "partido": "VALOR"
+ },
+ {
+  "id_dep": 11,
+  "departamento": "Retalhuleu",
+  "id_municipal": 1109,
+  "municipio": "El Asintal",
+  "alcalde": "Hugo Ranferi Escobar Barrios",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 12,
+  "departamento": "San Marcos",
+  "id_municipal": 1201,
+  "municipio": "San Marcos",
+  "alcalde": "Willy Rene Juarez Gonzalez",
+  "partido": "CUM"
+ },
+ {
+  "id_dep": 12,
+  "departamento": "San Marcos",
+  "id_municipal": 1202,
+  "municipio": "San Pedro Sacatepéquez",
+  "alcalde": "Juan Eliezer Gonzalez Gonzalez",
+  "partido": "VAMOS"
+ },
+ {
+  "id_dep": 12,
+  "departamento": "San Marcos",
+  "id_municipal": 1203,
+  "municipio": "San Antonio Sacatepéquez",
+  "alcalde": "Oscar Jonatan Perez Cardona",
+  "partido": "UCN"
+ },
+ {
+  "id_dep": 12,
+  "departamento": "San Marcos",
+  "id_municipal": 1204,
+  "municipio": "Comitancillo",
+  "alcalde": "Hector  Lopez Ramirez",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 12,
+  "departamento": "San Marcos",
+  "id_municipal": 1205,
+  "municipio": "San Miguel Ixtahuacán",
+  "alcalde": "Timoteo Feliciano Velasquez Bamaca",
+  "partido": "BIEN"
+ },
+ {
+  "id_dep": 12,
+  "departamento": "San Marcos",
+  "id_municipal": 1206,
+  "municipio": "Concepción Tutuapa",
+  "alcalde": "Ofelio Joel Morales Simon",
+  "partido": "BIEN"
+ },
+ {
+  "id_dep": 12,
+  "departamento": "San Marcos",
+  "id_municipal": 1207,
+  "municipio": "Tacaná",
+  "alcalde": "Eulalio Nicacio De Leon Velasquez",
+  "partido": "BIEN"
+ },
+ {
+  "id_dep": 12,
+  "departamento": "San Marcos",
+  "id_municipal": 1208,
+  "municipio": "Sibinal",
+  "alcalde": "Walter Rodrigo Roblero Ortiz",
+  "partido": "BIEN"
+ },
+ {
+  "id_dep": 12,
+  "departamento": "San Marcos",
+  "id_municipal": 1209,
+  "municipio": "Tajumulco",
+  "alcalde": "Jose Eliseo Chavez Chavez",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 12,
+  "departamento": "San Marcos",
+  "id_municipal": 1210,
+  "municipio": "Tejutla",
+  "alcalde": "Haroldo Crecencio Velasquez Ortega",
+  "partido": "TODOS"
+ },
+ {
+  "id_dep": 12,
+  "departamento": "San Marcos",
+  "id_municipal": 1211,
+  "municipio": "San Rafael Pie de la Cuesta",
+  "alcalde": "Over Leonel Reyna Escobar",
+  "partido": "C.C.N.I."
+ },
+ {
+  "id_dep": 12,
+  "departamento": "San Marcos",
+  "id_municipal": 1212,
+  "municipio": "Nuevo Progreso",
+  "alcalde": "Rogelio Salvador Castillo Alvarado",
+  "partido": "CCAM"
+ },
+ {
+  "id_dep": 12,
+  "departamento": "San Marcos",
+  "id_municipal": 1213,
+  "municipio": "El Tumbador",
+  "alcalde": "Diego Armando Ochoa Bautista",
+  "partido": "CREO"
+ },
+ {
+  "id_dep": 12,
+  "departamento": "San Marcos",
+  "id_municipal": 1214,
+  "municipio": "El Rodeo",
+  "alcalde": "Crysthian Omar Escobar Angel",
+  "partido": "CREO"
+ },
+ {
+  "id_dep": 12,
+  "departamento": "San Marcos",
+  "id_municipal": 1215,
+  "municipio": "Malacatán",
+  "alcalde": "Emilio Obdulio Galvez Perez",
+  "partido": "CREO"
+ },
+ {
+  "id_dep": 12,
+  "departamento": "San Marcos",
+  "id_municipal": 1216,
+  "municipio": "Catarina",
+  "alcalde": "Fulbio Ludvin Perez De Leon",
+  "partido": "CREO"
+ },
+ {
+  "id_dep": 12,
+  "departamento": "San Marcos",
+  "id_municipal": 1217,
+  "municipio": "Ayutla",
+  "alcalde": "Eustaquio Ruben Mendez De Leon",
+  "partido": "CCC"
+ },
+ {
+  "id_dep": 12,
+  "departamento": "San Marcos",
+  "id_municipal": 1218,
+  "municipio": "Ocós",
+  "alcalde": "Carlos Danilo Preciado Navarijo",
+  "partido": "CCLP"
+ },
+ {
+  "id_dep": 12,
+  "departamento": "San Marcos",
+  "id_municipal": 1219,
+  "municipio": "San Pablo",
+  "alcalde": "Rudy Danilo Martinez Ocaña",
+  "partido": "UCN"
+ },
+ {
+  "id_dep": 12,
+  "departamento": "San Marcos",
+  "id_municipal": 1220,
+  "municipio": "El Quetzal",
+  "alcalde": "Adoram Esau Miranda Vasquez",
+  "partido": "UCN"
+ },
+ {
+  "id_dep": 12,
+  "departamento": "San Marcos",
+  "id_municipal": 1221,
+  "municipio": "La Reforma",
+  "alcalde": "Edgar Francisco Solano Alcazar",
+  "partido": "UCN"
+ },
+ {
+  "id_dep": 12,
+  "departamento": "San Marcos",
+  "id_municipal": 1222,
+  "municipio": "Pajapita",
+  "alcalde": "Julio Cesar Lam Calderon",
+  "partido": "TODOS"
+ },
+ {
+  "id_dep": 12,
+  "departamento": "San Marcos",
+  "id_municipal": 1223,
+  "municipio": "Ixchiguán",
+  "alcalde": "Mario Alberto Chavez Chavez",
+  "partido": "VAMOS"
+ },
+ {
+  "id_dep": 12,
+  "departamento": "San Marcos",
+  "id_municipal": 1224,
+  "municipio": "San José Ojetenam",
+  "alcalde": "Bayron David Chaj Gonzalez",
+  "partido": "VAMOS"
+ },
+ {
+  "id_dep": 12,
+  "departamento": "San Marcos",
+  "id_municipal": 1225,
+  "municipio": "San Cristóbal Cucho",
+  "alcalde": "Wilman Hernan Orozco Orozco",
+  "partido": "VAMOS"
+ },
+ {
+  "id_dep": 12,
+  "departamento": "San Marcos",
+  "id_municipal": 1226,
+  "municipio": "Sipacapa",
+  "alcalde": "Ernesto Ramiro Bautista Rafael",
+  "partido": "CREO"
+ },
+ {
+  "id_dep": 12,
+  "departamento": "San Marcos",
+  "id_municipal": 1227,
+  "municipio": "Esquipulas Palo Gordo",
+  "alcalde": "Exadillas Dionel Ramos Aguilar",
+  "partido": "FCN-NACION"
+ },
+ {
+  "id_dep": 12,
+  "departamento": "San Marcos",
+  "id_municipal": 1228,
+  "municipio": "Río Blanco",
+  "alcalde": "Oscar Tereso Alvarez Abelarde",
+  "partido": "PHG"
+ },
+ {
+  "id_dep": 12,
+  "departamento": "San Marcos",
+  "id_municipal": 1229,
+  "municipio": "San Lorenzo",
+  "alcalde": "Roldan Josue Tema Coronado",
+  "partido": "FCN-NACION"
+ },
+ {
+  "id_dep": 12,
+  "departamento": "San Marcos",
+  "id_municipal": 1230,
+  "municipio": "La Blanca",
+  "alcalde": "Edilma Elizabeth Navarijo De Leon",
+  "partido": "UCN"
+ },
+ {
+  "id_dep": 13,
+  "departamento": "Huehuetenango",
+  "id_municipal": 1301,
+  "municipio": "Huehuetenango",
+  "alcalde": "Gustavo Adolfo Cano Villatoro",
+  "partido": "VAMOS"
+ },
+ {
+  "id_dep": 13,
+  "departamento": "Huehuetenango",
+  "id_municipal": 1302,
+  "municipio": "Chiantla",
+  "alcalde": "Elvis Gilberto Tello Alvarado",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 13,
+  "departamento": "Huehuetenango",
+  "id_municipal": 1303,
+  "municipio": "Malacatancito",
+  "alcalde": "Irma Elizabeth Avila Alvarado",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 13,
+  "departamento": "Huehuetenango",
+  "id_municipal": 1304,
+  "municipio": "Cuilco",
+  "alcalde": "Manrique Obel Galvez De Leon",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 13,
+  "departamento": "Huehuetenango",
+  "id_municipal": 1305,
+  "municipio": "Nentón",
+  "alcalde": "Rudi  Gordillo Velasco",
+  "partido": "FCN-NACION"
+ },
+ {
+  "id_dep": 13,
+  "departamento": "Huehuetenango",
+  "id_municipal": 1306,
+  "municipio": "San Pedro Necta",
+  "alcalde": "Julio Amilcar Ambrocio Ramirez",
+  "partido": "FCN-NACION"
+ },
+ {
+  "id_dep": 13,
+  "departamento": "Huehuetenango",
+  "id_municipal": 1307,
+  "municipio": "Jacaltenango",
+  "alcalde": "Juan Antonio Camposeco Delgado",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 13,
+  "departamento": "Huehuetenango",
+  "id_municipal": 1308,
+  "municipio": "San Pedro Soloma",
+  "alcalde": "Felipe Domingo Bacilio Pedro",
+  "partido": "FUERZA"
+ },
+ {
+  "id_dep": 13,
+  "departamento": "Huehuetenango",
+  "id_municipal": 1309,
+  "municipio": "San Idelfonso Ixtahuacán",
+  "alcalde": "Elias  Ortiz Andres",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 13,
+  "departamento": "Huehuetenango",
+  "id_municipal": 1310,
+  "municipio": "Santa Bárbara",
+  "alcalde": "Efrain  Lopez Gomez",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 13,
+  "departamento": "Huehuetenango",
+  "id_municipal": 1311,
+  "municipio": "La Libertad",
+  "alcalde": "Oscar Armindo Perez",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 13,
+  "departamento": "Huehuetenango",
+  "id_municipal": 1312,
+  "municipio": "La Democracia",
+  "alcalde": "Santiago Aminabad Molina Lopez",
+  "partido": "FUERZA"
+ },
+ {
+  "id_dep": 13,
+  "departamento": "Huehuetenango",
+  "id_municipal": 1313,
+  "municipio": "San Miguel Acatán",
+  "alcalde": "Alonzo  Carlos Miguel",
+  "partido": "UCN"
+ },
+ {
+  "id_dep": 13,
+  "departamento": "Huehuetenango",
+  "id_municipal": 1314,
+  "municipio": "San Rafael La Independencia",
+  "alcalde": "Emilio  Francisco Andres",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 13,
+  "departamento": "Huehuetenango",
+  "id_municipal": 1315,
+  "municipio": "Todos Santos Cuchumatán",
+  "alcalde": "Martin  Jimenez Jeronimo",
+  "partido": "CREO"
+ },
+ {
+  "id_dep": 13,
+  "departamento": "Huehuetenango",
+  "id_municipal": 1316,
+  "municipio": "San Juan Atitán",
+  "alcalde": "Santos  Hernandez Godinez",
+  "partido": "UCN"
+ },
+ {
+  "id_dep": 13,
+  "departamento": "Huehuetenango",
+  "id_municipal": 1317,
+  "municipio": "Santa Eulalia",
+  "alcalde": "Augusto Sebastian Francisquez Perez",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 13,
+  "departamento": "Huehuetenango",
+  "id_municipal": 1318,
+  "municipio": "San Mateo Ixtatán",
+  "alcalde": "Andres  Santizo Gomez",
+  "partido": "UCN"
+ },
+ {
+  "id_dep": 13,
+  "departamento": "Huehuetenango",
+  "id_municipal": 1319,
+  "municipio": "Colotenango",
+  "alcalde": "Romeo  Domingo Gomez",
+  "partido": "UCN"
+ },
+ {
+  "id_dep": 13,
+  "departamento": "Huehuetenango",
+  "id_municipal": 1320,
+  "municipio": "San Sebastián Huehuetenango",
+  "alcalde": "Rigoberto  Sales Sales",
+  "partido": "UCN"
+ },
+ {
+  "id_dep": 13,
+  "departamento": "Huehuetenango",
+  "id_municipal": 1321,
+  "municipio": "Tectitán",
+  "alcalde": "Dony Rossembert Angel Borrayes",
+  "partido": "URNG MAIZ"
+ },
+ {
+  "id_dep": 13,
+  "departamento": "Huehuetenango",
+  "id_municipal": 1322,
+  "municipio": "Concepción Huista",
+  "alcalde": "Juan  Ahilon Vargas",
+  "partido": "FCN-NACION"
+ },
+ {
+  "id_dep": 13,
+  "departamento": "Huehuetenango",
+  "id_municipal": 1323,
+  "municipio": "San Juan Ixcoy",
+  "alcalde": "Andres  Rafael Lopez",
+  "partido": "CONVERGENCIA"
+ },
+ {
+  "id_dep": 13,
+  "departamento": "Huehuetenango",
+  "id_municipal": 1324,
+  "municipio": "San Antonio Huista",
+  "alcalde": "Lindin Marin Morales Saenz",
+  "partido": "TODOS"
+ },
+ {
+  "id_dep": 13,
+  "departamento": "Huehuetenango",
+  "id_municipal": 1325,
+  "municipio": "San Sebastián Coatán",
+  "alcalde": "Juan Sebastian Diego Juan",
+  "partido": "UCN"
+ },
+ {
+  "id_dep": 13,
+  "departamento": "Huehuetenango",
+  "id_municipal": 1326,
+  "municipio": "Barillas",
+  "alcalde": "Gilberto  Francisco Manuel",
+  "partido": "CREO"
+ },
+ {
+  "id_dep": 13,
+  "departamento": "Huehuetenango",
+  "id_municipal": 1327,
+  "municipio": "Aguacatán",
+  "alcalde": "Pablo  Escobar Mendez",
+  "partido": "FCN-NACION"
+ },
+ {
+  "id_dep": 13,
+  "departamento": "Huehuetenango",
+  "id_municipal": 1328,
+  "municipio": "San Rafael Pétzal",
+  "alcalde": "Kalinery  Morales Sales",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 13,
+  "departamento": "Huehuetenango",
+  "id_municipal": 1329,
+  "municipio": "San Gaspar Ixchil",
+  "alcalde": "Sebastian  Garcia Perez",
+  "partido": "UCN"
+ },
+ {
+  "id_dep": 13,
+  "departamento": "Huehuetenango",
+  "id_municipal": 1330,
+  "municipio": "Santiago Chimaltenango",
+  "alcalde": "Froylan Elias Aguilar Jimenez",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 13,
+  "departamento": "Huehuetenango",
+  "id_municipal": 1331,
+  "municipio": "Santa Ana Huista",
+  "alcalde": "Edin  Morales Figueroa",
+  "partido": "TODOS"
+ },
+ {
+  "id_dep": 13,
+  "departamento": "Huehuetenango",
+  "id_municipal": 1332,
+  "municipio": "Unión Cantinil",
+  "alcalde": "Osmar Alexander Tello Figueroa",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 13,
+  "departamento": "Huehuetenango",
+  "id_municipal": 1333,
+  "municipio": "Petatán",
+  "alcalde": "Juan Bernardo Hernandez Domingo",
+  "partido": "CONVERGENCIA"
+ },
+ {
+  "id_dep": 14,
+  "departamento": "Quiché",
+  "id_municipal": 1401,
+  "municipio": "Santa Cruz del Quiché",
+  "alcalde": "Jose Francisco Perez Reyes",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 14,
+  "departamento": "Quiché",
+  "id_municipal": 1402,
+  "municipio": "Chiché",
+  "alcalde": "Mario Frederick Tiño Lindo",
+  "partido": "SEMILLA"
+ },
+ {
+  "id_dep": 14,
+  "departamento": "Quiché",
+  "id_municipal": 1403,
+  "municipio": "Chinique",
+  "alcalde": "Mayrol Gregorio Juarez Perez",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 14,
+  "departamento": "Quiché",
+  "id_municipal": 1404,
+  "municipio": "Zacualpa",
+  "alcalde": "Sabino Herwin Calachij Gutierrez",
+  "partido": "PC"
+ },
+ {
+  "id_dep": 14,
+  "departamento": "Quiché",
+  "id_municipal": 1405,
+  "municipio": "Chajul",
+  "alcalde": "Juan  Mateo Bop",
+  "partido": "VAMOS"
+ },
+ {
+  "id_dep": 14,
+  "departamento": "Quiché",
+  "id_municipal": 1406,
+  "municipio": "Chichicastenango",
+  "alcalde": "Manuel  Tebelan Calgua",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 14,
+  "departamento": "Quiché",
+  "id_municipal": 1407,
+  "municipio": "Patzité",
+  "alcalde": "Melchor  Aguare Calel",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 14,
+  "departamento": "Quiché",
+  "id_municipal": 1408,
+  "municipio": "San Antonio Ilotenango",
+  "alcalde": "Domingo  Ajeataz Cho",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 14,
+  "departamento": "Quiché",
+  "id_municipal": 1409,
+  "municipio": "San Pedro Jocopilas",
+  "alcalde": "Nicolas  Lopez Mendoza",
+  "partido": "TODOS"
+ },
+ {
+  "id_dep": 14,
+  "departamento": "Quiché",
+  "id_municipal": 1410,
+  "municipio": "Cunén",
+  "alcalde": "Pedro Alejandro Pu Canto",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 14,
+  "departamento": "Quiché",
+  "id_municipal": 1411,
+  "municipio": "San Juan Cotzal",
+  "alcalde": "Jacinto  Sambrano Medina",
+  "partido": "VALOR"
+ },
+ {
+  "id_dep": 14,
+  "departamento": "Quiché",
+  "id_municipal": 1412,
+  "municipio": "Joyabaj",
+  "alcalde": "Florencio  Carrascoza Gamez",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 14,
+  "departamento": "Quiché",
+  "id_municipal": 1413,
+  "municipio": "Nebaj",
+  "alcalde": "Virgilio Geronimo Bernal Guzman",
+  "partido": "PC"
+ },
+ {
+  "id_dep": 14,
+  "departamento": "Quiché",
+  "id_municipal": 1414,
+  "municipio": "San Andrés Sajcabajá",
+  "alcalde": "Pedro  Tix Gonzales",
+  "partido": "VAMOS"
+ },
+ {
+  "id_dep": 14,
+  "departamento": "Quiché",
+  "id_municipal": 1415,
+  "municipio": "San Miguel Uspantán",
+  "alcalde": "Victor Hugo Figueroa Perez",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 14,
+  "departamento": "Quiché",
+  "id_municipal": 1416,
+  "municipio": "Sacapulas",
+  "alcalde": "Alberto  Lux Tzunux",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 14,
+  "departamento": "Quiché",
+  "id_municipal": 1417,
+  "municipio": "San Bartolomé Jocotenango",
+  "alcalde": "Joaquin  Xotoy Tum",
+  "partido": "VAMOS"
+ },
+ {
+  "id_dep": 14,
+  "departamento": "Quiché",
+  "id_municipal": 1418,
+  "municipio": "Canillá",
+  "alcalde": "Yanuario  Urizar Anzueto",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 14,
+  "departamento": "Quiché",
+  "id_municipal": 1419,
+  "municipio": "Chicamán",
+  "alcalde": "Pedro  Gamarro Morales",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 14,
+  "departamento": "Quiché",
+  "id_municipal": 1420,
+  "municipio": "Ixcán",
+  "alcalde": "Antonio  Elias Calel",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 14,
+  "departamento": "Quiché",
+  "id_municipal": 1421,
+  "municipio": "Pachalum",
+  "alcalde": "Boanerges  Velasquez Duarte",
+  "partido": "VAMOS"
+ },
+ {
+  "id_dep": 15,
+  "departamento": "Baja Verapaz",
+  "id_municipal": 1501,
+  "municipio": "Salamá",
+  "alcalde": "Victor Jordan De La Cruz Cruz",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 15,
+  "departamento": "Baja Verapaz",
+  "id_municipal": 1502,
+  "municipio": "San Miguel Chicaj",
+  "alcalde": "Fernando  Calate Cuquej",
+  "partido": "COCIEES"
+ },
+ {
+  "id_dep": 15,
+  "departamento": "Baja Verapaz",
+  "id_municipal": 1503,
+  "municipio": "Rabinal",
+  "alcalde": "Octaviano  Alvarado Garcia",
+  "partido": "COCIECH"
+ },
+ {
+  "id_dep": 15,
+  "departamento": "Baja Verapaz",
+  "id_municipal": 1504,
+  "municipio": "Cubulco",
+  "alcalde": "Tomas Marcelino Alonzo Teletor",
+  "partido": "TODOS"
+ },
+ {
+  "id_dep": 15,
+  "departamento": "Baja Verapaz",
+  "id_municipal": 1505,
+  "municipio": "Granados",
+  "alcalde": "Marvin Ovidio Canahui Marroquin",
+  "partido": "UNIDOS"
+ },
+ {
+  "id_dep": 15,
+  "departamento": "Baja Verapaz",
+  "id_municipal": 1506,
+  "municipio": "Santa Cruz El Chol",
+  "alcalde": "Enrique  Milian Perez",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 15,
+  "departamento": "Baja Verapaz",
+  "id_municipal": 1507,
+  "municipio": "San Jerónimo",
+  "alcalde": "Gilberto Salomon Lopez Alcantara",
+  "partido": "TODOS"
+ },
+ {
+  "id_dep": 15,
+  "departamento": "Baja Verapaz",
+  "id_municipal": 1508,
+  "municipio": "Purulhá",
+  "alcalde": "Guillermo Efrain Ramos Ortiz",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 16,
+  "departamento": "Alta Verapaz",
+  "id_municipal": 1601,
+  "municipio": "Cobán",
+  "alcalde": "Leonel Arturo Chacon Barrios",
+  "partido": "VALOR"
+ },
+ {
+  "id_dep": 16,
+  "departamento": "Alta Verapaz",
+  "id_municipal": 1602,
+  "municipio": "Santa Cruz Verapaz",
+  "alcalde": "Efrain  Cuc Moran",
+  "partido": "TODOS"
+ },
+ {
+  "id_dep": 16,
+  "departamento": "Alta Verapaz",
+  "id_municipal": 1603,
+  "municipio": "San Cristóbal Verapaz",
+  "alcalde": "Ovidio  Choc Pop",
+  "partido": "VALOR"
+ },
+ {
+  "id_dep": 16,
+  "departamento": "Alta Verapaz",
+  "id_municipal": 1604,
+  "municipio": "Tactic",
+  "alcalde": "Julio Baldomero Asig Isem",
+  "partido": "PC"
+ },
+ {
+  "id_dep": 16,
+  "departamento": "Alta Verapaz",
+  "id_municipal": 1605,
+  "municipio": "Tamahú",
+  "alcalde": "Eduardo  Moll Santa Cruz",
+  "partido": "VALOR"
+ },
+ {
+  "id_dep": 16,
+  "departamento": "Alta Verapaz",
+  "id_municipal": 1606,
+  "municipio": "San Miguel Tucurú",
+  "alcalde": "Leonel Victoriano Guzman Argueta",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 16,
+  "departamento": "Alta Verapaz",
+  "id_municipal": 1607,
+  "municipio": "Panzós",
+  "alcalde": "Ernesto  Ramirez Caal",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 16,
+  "departamento": "Alta Verapaz",
+  "id_municipal": 1608,
+  "municipio": "Senahú",
+  "alcalde": "Ariel Gonzalo Leal De Leon",
+  "partido": "VALOR"
+ },
+ {
+  "id_dep": 16,
+  "departamento": "Alta Verapaz",
+  "id_municipal": 1609,
+  "municipio": "San Pedro Carchá",
+  "alcalde": "Winter  Coc Ba",
+  "partido": "VICTORIA"
+ },
+ {
+  "id_dep": 16,
+  "departamento": "Alta Verapaz",
+  "id_municipal": 1610,
+  "municipio": "San Juan Chamelco",
+  "alcalde": "Ervin Orlando Tut Quim",
+  "partido": "FCN-NACION"
+ },
+ {
+  "id_dep": 16,
+  "departamento": "Alta Verapaz",
+  "id_municipal": 1611,
+  "municipio": "San Agustín Lanquín",
+  "alcalde": "Roberto  Pop Mo",
+  "partido": "VIVA"
+ },
+ {
+  "id_dep": 16,
+  "departamento": "Alta Verapaz",
+  "id_municipal": 1612,
+  "municipio": "Santa María Cahabón",
+  "alcalde": "Denis Cristian Fraatz Sierra",
+  "partido": "FCN-NACION"
+ },
+ {
+  "id_dep": 16,
+  "departamento": "Alta Verapaz",
+  "id_municipal": 1613,
+  "municipio": "Chisec",
+  "alcalde": "Fidencio  Lima Pop",
+  "partido": "UCN"
+ },
+ {
+  "id_dep": 16,
+  "departamento": "Alta Verapaz",
+  "id_municipal": 1614,
+  "municipio": "Chahal",
+  "alcalde": "Luis Rodolfo Barrientos Figueroa",
+  "partido": "UNIONISTA"
+ },
+ {
+  "id_dep": 16,
+  "departamento": "Alta Verapaz",
+  "id_municipal": 1615,
+  "municipio": "Fray Bartolomé de las Casas",
+  "alcalde": "Arnoldo Federico Fontana Hercules",
+  "partido": "VICTORIA"
+ },
+ {
+  "id_dep": 16,
+  "departamento": "Alta Verapaz",
+  "id_municipal": 1616,
+  "municipio": "Santa Catalina La Tinta",
+  "alcalde": "Jose Gilberto Artola Choc",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 16,
+  "departamento": "Alta Verapaz",
+  "id_municipal": 1617,
+  "municipio": "Raxruhá",
+  "alcalde": "Carlos  Tut Xol",
+  "partido": "WINAQ"
+ },
+ {
+  "id_dep": 17,
+  "departamento": "Petén",
+  "id_municipal": 1701,
+  "municipio": "Flores",
+  "alcalde": "Mayra Elizabeth Altan Palencia De Palacios",
+  "partido": "VAMOS"
+ },
+ {
+  "id_dep": 17,
+  "departamento": "Petén",
+  "id_municipal": 1702,
+  "municipio": "San José",
+  "alcalde": "Yobani Donaldo Cortez Zac",
+  "partido": "Mi Pueblo"
+ },
+ {
+  "id_dep": 17,
+  "departamento": "Petén",
+  "id_municipal": 1703,
+  "municipio": "San Benito",
+  "alcalde": "Carlos Antonio Kuylen Morales",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 17,
+  "departamento": "Petén",
+  "id_municipal": 1704,
+  "municipio": "San Andrés",
+  "alcalde": "Milton Saul Mendez Fion",
+  "partido": "BIEN"
+ },
+ {
+  "id_dep": 17,
+  "departamento": "Petén",
+  "id_municipal": 1705,
+  "municipio": "La Libertad",
+  "alcalde": "Gustavo Adolfo Diaz Diaz",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 17,
+  "departamento": "Petén",
+  "id_municipal": 1706,
+  "municipio": "San Francisco",
+  "alcalde": "Juan Jose Paredes Guzman",
+  "partido": "FCN-NACION"
+ },
+ {
+  "id_dep": 17,
+  "departamento": "Petén",
+  "id_municipal": 1707,
+  "municipio": "Santa Ana",
+  "alcalde": "Cesar Augusto Garrido Rosado",
+  "partido": "BIEN"
+ },
+ {
+  "id_dep": 17,
+  "departamento": "Petén",
+  "id_municipal": 1708,
+  "municipio": "Dolores",
+  "alcalde": "Marvin Rolando Cruz Guzman",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 17,
+  "departamento": "Petén",
+  "id_municipal": 1709,
+  "municipio": "San Luis",
+  "alcalde": "Macario Efrain Oliva Muralles",
+  "partido": "UCN"
+ },
+ {
+  "id_dep": 17,
+  "departamento": "Petén",
+  "id_municipal": 1710,
+  "municipio": "Sayaxché",
+  "alcalde": "Jose Maria Cabnal Bol",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 17,
+  "departamento": "Petén",
+  "id_municipal": 1711,
+  "municipio": "Melchor de Mencos",
+  "alcalde": "Luis Amado Yanes Mendoza",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 17,
+  "departamento": "Petén",
+  "id_municipal": 1712,
+  "municipio": "Poptún",
+  "alcalde": "Vicente Alfredo Gil Castillo",
+  "partido": "VIVA"
+ },
+ {
+  "id_dep": 17,
+  "departamento": "Petén",
+  "id_municipal": 1713,
+  "municipio": "Las Cruces",
+  "alcalde": "Bayron  Bernal Oliva",
+  "partido": "VIVA"
+ },
+ {
+  "id_dep": 17,
+  "departamento": "Petén",
+  "id_municipal": 1714,
+  "municipio": "El Chal",
+  "alcalde": "Elias  Calderon Alvarez",
+  "partido": "VAMOS"
+ },
+ {
+  "id_dep": 18,
+  "departamento": "Izabal",
+  "id_municipal": 1801,
+  "municipio": "Puerto Barrios",
+  "alcalde": "Hugo Rene Sarceño Orellana",
+  "partido": "PC"
+ },
+ {
+  "id_dep": 18,
+  "departamento": "Izabal",
+  "id_municipal": 1802,
+  "municipio": "Livingston",
+  "alcalde": "Luis  Xol Rax",
+  "partido": "UCN"
+ },
+ {
+  "id_dep": 18,
+  "departamento": "Izabal",
+  "id_municipal": 1803,
+  "municipio": "El Estor",
+  "alcalde": "Jose Joel Lorenzo Flores",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 18,
+  "departamento": "Izabal",
+  "id_municipal": 1804,
+  "municipio": "Morales",
+  "alcalde": "Maynor David Portillo Vasquez",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 18,
+  "departamento": "Izabal",
+  "id_municipal": 1805,
+  "municipio": "Los Amates",
+  "alcalde": "Nery Randolfo Cruz Perez",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 19,
+  "departamento": "Zacapa",
+  "id_municipal": 1901,
+  "municipio": "Zacapa",
+  "alcalde": "Mynor Amilcar Morales Vargas",
+  "partido": "AL RESCATE DE ZACAPA"
+ },
+ {
+  "id_dep": 19,
+  "departamento": "Zacapa",
+  "id_municipal": 1902,
+  "municipio": "Estanzuela",
+  "alcalde": "Mirna Yohaira Vargas Trujillo",
+  "partido": "UCN"
+ },
+ {
+  "id_dep": 19,
+  "departamento": "Zacapa",
+  "id_municipal": 1903,
+  "municipio": "Río Hondo",
+  "alcalde": "Oscar Ernesto Mata",
+  "partido": "TUNO"
+ },
+ {
+  "id_dep": 19,
+  "departamento": "Zacapa",
+  "id_municipal": 1904,
+  "municipio": "Gualán",
+  "alcalde": "Luis Fernando Cordon Vargas",
+  "partido": "UCN"
+ },
+ {
+  "id_dep": 19,
+  "departamento": "Zacapa",
+  "id_municipal": 1905,
+  "municipio": "Teculután",
+  "alcalde": "Cesar Augusto Paz Castañeda",
+  "partido": "BIEN"
+ },
+ {
+  "id_dep": 19,
+  "departamento": "Zacapa",
+  "id_municipal": 1906,
+  "municipio": "Usumatlán",
+  "alcalde": "Andi Natanael Pacheco Vasquez",
+  "partido": "UCN"
+ },
+ {
+  "id_dep": 19,
+  "departamento": "Zacapa",
+  "id_municipal": 1907,
+  "municipio": "Cabañas",
+  "alcalde": "Javier Antonio Ortiz Garcia",
+  "partido": "UCN"
+ },
+ {
+  "id_dep": 19,
+  "departamento": "Zacapa",
+  "id_municipal": 1908,
+  "municipio": "San Diego",
+  "alcalde": "Hugo Rene Villeda Portillo",
+  "partido": "BIEN"
+ },
+ {
+  "id_dep": 19,
+  "departamento": "Zacapa",
+  "id_municipal": 1909,
+  "municipio": "La Unión",
+  "alcalde": "Edvin Gustavo Galvan",
+  "partido": "VAMOS"
+ },
+ {
+  "id_dep": 19,
+  "departamento": "Zacapa",
+  "id_municipal": 1910,
+  "municipio": "Huité",
+  "alcalde": "Walter Joel Mateo Najera",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 19,
+  "departamento": "Zacapa",
+  "id_municipal": 1911,
+  "municipio": "San Jorge",
+  "alcalde": "Oscar David Trujillo Sanchez",
+  "partido": "BIEN"
+ },
+ {
+  "id_dep": 20,
+  "departamento": "Chiquimula",
+  "id_municipal": 2001,
+  "municipio": "Chiquimula",
+  "alcalde": "Rolando Arturo Aquino Guerra",
+  "partido": "LA MUTA"
+ },
+ {
+  "id_dep": 20,
+  "departamento": "Chiquimula",
+  "id_municipal": 2002,
+  "municipio": "San José La Arada",
+  "alcalde": "Melvin Licinio Leon Villeda",
+  "partido": "VAMOS"
+ },
+ {
+  "id_dep": 20,
+  "departamento": "Chiquimula",
+  "id_municipal": 2003,
+  "municipio": "San Juan Ermita",
+  "alcalde": "Miguel Angel Lopez Gutierrez",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 20,
+  "departamento": "Chiquimula",
+  "id_municipal": 2004,
+  "municipio": "Jocotán",
+  "alcalde": "Ramon  Diaz Gutierrez",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 20,
+  "departamento": "Chiquimula",
+  "id_municipal": 2005,
+  "municipio": "Camotán",
+  "alcalde": "Noe Rolando Guerra Guerra",
+  "partido": "TODOS"
+ },
+ {
+  "id_dep": 20,
+  "departamento": "Chiquimula",
+  "id_municipal": 2006,
+  "municipio": "Olopa",
+  "alcalde": "Jose Jorge Lemus Espinoza",
+  "partido": "UCN"
+ },
+ {
+  "id_dep": 20,
+  "departamento": "Chiquimula",
+  "id_municipal": 2007,
+  "municipio": "Esquipulas",
+  "alcalde": "Carlos Jose Lapola Rodriguez",
+  "partido": "DESARROLLO"
+ },
+ {
+  "id_dep": 20,
+  "departamento": "Chiquimula",
+  "id_municipal": 2008,
+  "municipio": "Concepción las Minas",
+  "alcalde": "Juan Antonio Vanegas Hernandez",
+  "partido": "UCN"
+ },
+ {
+  "id_dep": 20,
+  "departamento": "Chiquimula",
+  "id_municipal": 2009,
+  "municipio": "Quezaltepeque",
+  "alcalde": "Alvaro Rolando Morales Sandoval",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 20,
+  "departamento": "Chiquimula",
+  "id_municipal": 2010,
+  "municipio": "San Jacinto",
+  "alcalde": "Marvin Juventino Morales Palma",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 20,
+  "departamento": "Chiquimula",
+  "id_municipal": 2011,
+  "municipio": "Ipala",
+  "alcalde": "Esduin Jerson Javier Javier",
+  "partido": "MILPA"
+ },
+ {
+  "id_dep": 21,
+  "departamento": "Jalapa",
+  "id_municipal": 2101,
+  "municipio": "Jalapa",
+  "alcalde": "Rafael Alfredo Sandoval Cabrera",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 21,
+  "departamento": "Jalapa",
+  "id_municipal": 2102,
+  "municipio": "San Pedro Pinula",
+  "alcalde": "Jose Roberto Ramirez Guerra",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 21,
+  "departamento": "Jalapa",
+  "id_municipal": 2103,
+  "municipio": "San Luis Jilotepeque",
+  "alcalde": "Juan Alberto Perez Manuel",
+  "partido": "EL CÁNTARO"
+ },
+ {
+  "id_dep": 21,
+  "departamento": "Jalapa",
+  "id_municipal": 2104,
+  "municipio": "San Manuel Chaparrón",
+  "alcalde": "Rafael Alcides Sandoval Rodriguez",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 21,
+  "departamento": "Jalapa",
+  "id_municipal": 2105,
+  "municipio": "San Carlos Alzatate",
+  "alcalde": "Fredi Omar Garcia Galiano",
+  "partido": "UCN"
+ },
+ {
+  "id_dep": 21,
+  "departamento": "Jalapa",
+  "id_municipal": 2106,
+  "municipio": "Monjas",
+  "alcalde": "Saul  Lopez Escalante",
+  "partido": "CCM"
+ },
+ {
+  "id_dep": 21,
+  "departamento": "Jalapa",
+  "id_municipal": 2107,
+  "municipio": "Mataquescuintla",
+  "alcalde": "Hector Felipe Guevara Pineda",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 22,
+  "departamento": "Jutiapa",
+  "id_municipal": 2201,
+  "municipio": "Jutiapa",
+  "alcalde": "Luis Gabriel Rosales Orellana",
+  "partido": "VALOR"
+ },
+ {
+  "id_dep": 22,
+  "departamento": "Jutiapa",
+  "id_municipal": 2202,
+  "municipio": "El Progreso",
+  "alcalde": "Marvin Enrique Zepeda Gonzalez",
+  "partido": "COCIPROG"
+ },
+ {
+  "id_dep": 22,
+  "departamento": "Jutiapa",
+  "id_municipal": 2203,
+  "municipio": "Santa Catarina Mita",
+  "alcalde": "William Geovanny Duarte Aguilar",
+  "partido": "FCN-NACION"
+ },
+ {
+  "id_dep": 22,
+  "departamento": "Jutiapa",
+  "id_municipal": 2204,
+  "municipio": "Agua Blanca",
+  "alcalde": "Julio Cesar Guerra Cameros",
+  "partido": "FCN-NACION"
+ },
+ {
+  "id_dep": 22,
+  "departamento": "Jutiapa",
+  "id_municipal": 2205,
+  "municipio": "Asunción Mita",
+  "alcalde": "Rene Francisco Guardado Lemus",
+  "partido": "COCIMI"
+ },
+ {
+  "id_dep": 22,
+  "departamento": "Jutiapa",
+  "id_municipal": 2206,
+  "municipio": "Yupiltepeque",
+  "alcalde": "Carlos Anibal Godoy Torres",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 22,
+  "departamento": "Jutiapa",
+  "id_municipal": 2207,
+  "municipio": "Atescatempa",
+  "alcalde": "Jose Mauricio Contreras Moran",
+  "partido": "UCN"
+ },
+ {
+  "id_dep": 22,
+  "departamento": "Jutiapa",
+  "id_municipal": 2208,
+  "municipio": "Jerez",
+  "alcalde": "Carlos Efrain Melgar Torres",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 22,
+  "departamento": "Jutiapa",
+  "id_municipal": 2209,
+  "municipio": "El Adelanto",
+  "alcalde": "Teofilo Sinohe Corado Azmitia",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 22,
+  "departamento": "Jutiapa",
+  "id_municipal": 2210,
+  "municipio": "Zapotitlán",
+  "alcalde": "Hilmar Edgardo Quiñonez Y Quiñonez",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 22,
+  "departamento": "Jutiapa",
+  "id_municipal": 2211,
+  "municipio": "Comapa",
+  "alcalde": "Cesar Estuardo Vasquez Recinos",
+  "partido": "FCN-NACION"
+ },
+ {
+  "id_dep": 22,
+  "departamento": "Jutiapa",
+  "id_municipal": 2212,
+  "municipio": "Jalpatagua",
+  "alcalde": "Gustavo Adolfo Recinos Corea",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 22,
+  "departamento": "Jutiapa",
+  "id_municipal": 2213,
+  "municipio": "Conguaco",
+  "alcalde": "Manuel  Gonzalez",
+  "partido": "UCN"
+ },
+ {
+  "id_dep": 22,
+  "departamento": "Jutiapa",
+  "id_municipal": 2214,
+  "municipio": "Moyuta",
+  "alcalde": "Carlos Roberto Marroquin Fuentes",
+  "partido": "FCN-NACION"
+ },
+ {
+  "id_dep": 22,
+  "departamento": "Jutiapa",
+  "id_municipal": 2215,
+  "municipio": "Pasaco",
+  "alcalde": "Ottoniel  Pineda Herrera",
+  "partido": "UNE"
+ },
+ {
+  "id_dep": 22,
+  "departamento": "Jutiapa",
+  "id_municipal": 2216,
+  "municipio": "San José Acatempa",
+  "alcalde": "Esteban Adolfo Castillo Y Castillo",
+  "partido": "UCN"
+ },
+ {
+  "id_dep": 22,
+  "departamento": "Jutiapa",
+  "id_municipal": 2217,
+  "municipio": "Quesada",
+  "alcalde": "Carlos Alberto Martinez Castellanos",
+  "partido": "FCN-NACION"
+ }
+],
+"tutoriales":[
+ {
+  "titulo": "Semarofo Electoral",
+  "url": "https:\/\/youtu.be\/AAkerXkOhjA"
+ }
+]
+}
