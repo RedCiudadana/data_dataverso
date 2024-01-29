@@ -1,5 +1,4 @@
-{
-"final":[
+[
  {
   "id_dep": 1,
   "departamento": "Guatemala",
@@ -2720,11 +2719,4 @@
   "alcalde": "Carlos Alberto Martinez Castellanos",
   "partido": "FCN-NACION"
  }
-],
-"tutoriales":[
- {
-  "titulo": "Semarofo Electoral",
-  "url": "https:\/\/youtu.be\/AAkerXkOhjA"
- }
 ]
-}
