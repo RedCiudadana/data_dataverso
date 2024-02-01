@@ -1,0 +1,17 @@
+{
+  "name": "data_dataverso",
+  "version": "1.0.0",
+  "description": "Data disponible en este repositorio:",
+  "main": ".eleventy.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "moment": "^2.30.1",
+    "render-markdown-js": "^1.3.0"
+  }
+}

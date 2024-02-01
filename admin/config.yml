@@ -1,0 +1,25 @@
+backend:
+  name: git-gateway
+  branch: main
+
+# publish_mode: editorial_workflow
+media_folder: "assets/conjuntos" # Media files will be stored in the repo under src/assets/images/posts
+public_folder: "/assets/conjuntos" # The src attribute for uploaded media will begin with assets/images/posts
+
+collections:
+  - name: "conjuntos" # Used in routes, e.g., /admin/collections/blog
+    label: "Conjuntos de Datos" # Used in the UI
+    folder: "src/conjuntos" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    editor:
+      preview: false # Disable the editor preview and use instead 'preview links'
+    fields: # The fields for each document, usually in front matter
+      - { name: "title", label: "Nombre del Conjunto de Datos" }
+      - { name: "descripcion", label: "Descripción" }
+      - { name: "json", label: "Archivo JSON", widget: "file" }
+      - { name: "csv", label: "Archivo CSV", widget: "file" }
+      - { name: "fuente", label: "Fuente" }
+      - { name: "ano", label: "Año de Publicación" }
+
+show_preview_links: true
