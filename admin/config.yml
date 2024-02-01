@@ -19,7 +19,8 @@ collections:
       - { name: "descripcion", label: "Descripción" }
       - { name: "json", label: "Archivo JSON", widget: "file" }
       - { name: "csv", label: "Archivo CSV", widget: "file" }
-      - { name: "fuente", label: "Fuente" }
+      - { name: "nombre_fuente", label: "Nombre de la Fuente" }
+      - { name: "enlace_fuente", label: "Enlace de la Fuente" }
       - { name: "ano", label: "Año de Publicación" }
 
 show_preview_links: true
