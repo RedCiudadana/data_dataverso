@@ -316,7 +316,7 @@ permalink: "index.html"
                   <div class="ud-faq-body">
                     <a href="{{conjunto.data.json}}" download="{{conjunto.data.title | slug}}" class="ud-main-btn">json</a>
                     <br><br>
-                    <p>Enlace para uso de api: <br>https://data-dataverso.netlify.app{{conjunto.url}}</p>
+                    <p>Enlace para uso de api: <br><a href="https://data-dataverso.netlify.app{{conjunto.url}}" id="copyLink">https://data-dataverso.netlify.app{{conjunto.url}}</a></p>
                   </div>
                 </div>
               </div>
@@ -758,5 +758,22 @@ permalink: "index.html"
 {% endblock %}
 
 {% block body_javascripts %}
-
+<script>
+  document.getElementById('copyLink').addEventListener('click', function() {
+    // Create a temporary input element
+    var input = document.createElement('input');
+    // Set its value to the link's href attribute
+    input.value = this.href;
+    // Append the input element to the document
+    document.body.appendChild(input);
+    // Select the input's value
+    input.select();
+    // Copy the selected text
+    document.execCommand('copy');
+    // Remove the temporary input element
+    document.body.removeChild(input);
+    // Log a message or perform any additional actions
+    console.log('Link copied to clipboard: ' + this.href);
+  });
+</script>
 {% endblock %}
