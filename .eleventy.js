@@ -19,19 +19,6 @@ module.exports = function (eleventyConfig) {
         // Use the 'fs' module to read the file synchronously
         return fs.readFileSync(absolutePath, 'utf-8');
     });
-    
-    // Add a filter for jsonify
-    eleventyConfig.addFilter('jsonify', function (value) {
-    return JSON.stringify(value, null, 2);
-    });
-
-    eleventyConfig.addFilter('truncateJson', function (jsonContent) {
-        // Split the content at the closing square bracket "]"
-        const truncatedContent = jsonContent.split(']')[0];
-    
-        // Reconstruct the JSON with a closing square bracket
-        return `${truncatedContent}]`;
-    });
 
     eleventyConfig.addNunjucksFilter("rmj", function(content) {
         return rmj(content);
