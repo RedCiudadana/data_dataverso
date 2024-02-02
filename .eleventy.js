@@ -25,6 +25,14 @@ module.exports = function (eleventyConfig) {
     return JSON.stringify(value, null, 2);
     });
 
+    eleventyConfig.addFilter('truncateJson', function (jsonContent) {
+        // Split the content at the closing square bracket "]"
+        const truncatedContent = jsonContent.split(']')[0];
+    
+        // Reconstruct the JSON with a closing square bracket
+        return `${truncatedContent}]`;
+    });
+
     eleventyConfig.addNunjucksFilter("rmj", function(content) {
         return rmj(content);
     });
