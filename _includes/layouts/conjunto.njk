@@ -2,4 +2,4 @@
 permalink: "{{json}}"
 ---
 {% set content = json | read(filePath) %}
-{{ content | jsonify | safe | replace('\r\n', '') | replace('\"', '"') | truncateJson  }}
+{{ content | jsonify | safe | replace('\r\n', '') | replace('\"', '"') | truncateJson | safe  }}
