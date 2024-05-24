@@ -15,7 +15,7 @@
   --font: "Inter", sans-serif;
   --body-color: #637381;
   --heading-color: #212b36;
-  --primary-color: #3056d3;
+  --primary-color: #383e47;
   --white: #ffffff;
 }
 
@@ -152,12 +152,12 @@ p {
   z-index: 5;
   -webkit-transition: all 0.4s ease-out 0s;
   transition: all 0.4s ease-out 0s;
-  background: var(--primary-color);
+  background: var(--heading-color);
 }
 
 .ud-main-btn:hover {
   color: var(--white);
-  background: var(--heading-color);
+  background: var(--body-color);
 }
 
 @media (max-width: 767px) {
@@ -1305,6 +1305,12 @@ p {
 
 .ud-single-team .ud-team-socials a:hover {
   color: var(--primary-color);
+}
+
+/* ===== Contact CSS ===== */
+.ud-section {
+  padding: 120px 0px;
+  position: relative;
 }
 
 /* ===== Contact CSS ===== */
@@ -2611,3 +2617,108 @@ p {
   }
 }
 /*# sourceMappingURL=ud-styles.css.map */
+
+.search_bar {
+  width: 100%;
+  position: relative;
+}
+
+.search_bar input {
+  width: 80%;
+  margin-left: 10%;
+  margin-bottom: 50px;
+  height: 40px;
+  padding-left: 40px; /* Add padding to leave space for the icon */
+  box-sizing: border-box; /* Ensure padding doesn't affect the total width */
+}
+
+.search_bar .lupa {
+  position: absolute;
+  left: 12%; /* Slightly adjust based on your padding and input width */
+  top: 22%;
+  transform: translateY(-50%);
+  color: #999;
+}
+
+.mr-white{
+  border-right: 1px solid #fff;
+}
+
+@media (max-width: 767px) {
+  .mr-white {
+    border-right: none;
+  }
+}
+
+.header-icon a{
+  color: #fff;
+  margin: 0 5px;
+  transition: 0.5 all ease;
+}
+
+.header-icon a:hover{
+  opacity: 0.5;
+}
+
+.footer-icon a{
+  color: #fff;
+  margin: 0 5px;
+  transition: 0.5 all ease;
+}
+
+.footer-icon a:hover{
+  opacity: 0.5;
+}
+
+.cuadro{
+  background-color: rgb(0,0,0,.5);
+  text-align: center;
+  border-radius: 10px;
+}
+
+.cuadro img{
+  margin: 20px auto;
+}
+
+.cuadro p{
+  color: #fff;
+  padding-bottom: 20px;
+}
+
+.white_line{
+  border-bottom: 1px solid #fff;
+  width: 100%;
+  height: 10px;
+  margin-bottom: 40px;
+}
+
+.contact_form{
+  width: 100%;
+}
+
+.contact_form input{
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.contact_form textarea{
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.contact-links{
+  margin: 20px 0;
+}
+
+.contact-links a{
+  margin: 5px 5px;
+  font-size: 40px;
+  transition: 0.5 all ease;
+  color: var(--heading-color);
+}
+
+.contact-links a:hover{
+  color: var(--body-color);
+}

@@ -1,0 +1,94 @@
+---
+permalink: "/contacto/index.html"
+---
+
+{% extends "src/base.njk" %}
+
+{% block head %}
+<title>Data Dataverso - Contacto</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+{% endblock %}
+
+{% block content %}
+
+    <!-- ====== Hero Start ====== -->
+    <section class="ud-hero" id="home">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="ud-hero-content wow fadeInUp" data-wow-delay=".2s">
+                        <h1 class="ud-hero-title">
+                        Contáctanos
+                        </h1>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ====== Hero End ====== -->
+    <!-- contact-address-area-strat -->
+    <section class="ud-section">
+        <div class="container pt-130 pb-130">
+            <div class="row">
+                <div class="col-lg-6 col-xl-6 col-sm-12 col-md-12 mb-40">
+                    <h1 style="font-size:30px;" class="mb-20">Para más información de eventos, dudas o de nuestro trabajo</h1>
+                    <p class="mb-20">Llena el siguiente formulario y nuestro equipo te estará contactando</p>
+                    <h6 class="mb-20">Síguenos a través de nuestras redes sociales</h6>
+
+                    <div class="d-flex contact-links">
+                        <a class="redes" target="_blank" href="https://www.instagram.com/redxguate/"><i class="fab fa-instagram "></i></a>
+                        <a class="redes" target="_blank" href="https://www.tiktok.com/@redxguate"><i class="fa-brands fa-tiktok"></i></a>
+                        <a class="redes" target="_blank" href="https://twitter.com/redxguate"><i class="fa-brands fa-x-twitter"></i></a>
+                        <a class="redes" target="_blank" href="https://www.facebook.com/Redciudadanagt"><i class="fab fa-facebook-f"></i></a>
+                        <a class="redes" target="_blank" href="https://www.youtube.com/channel/UCQwc62j7beStZYFzwPxBEQg"><i class="fab fa-youtube"></i></a>
+                    </div>
+
+                </div>
+                <div class="col-lg-6 col-xl-6 col-sm-12 col-md-12">
+                    <form class="contact_form" id="form" target="_self" onsubmit="return postToForm();" action="" autocomplete="off">
+                        <input id="name" name="entry.1064235632" type="string" required placeholder="Nombre Completo"/>
+                        <input id="email" name="entry.1330832081" type="email" required placeholder="Correo Electrónico"/>
+                        <input id="affair" name="entry.1233483376" type="string" placeholder="Asunto / Motivo de Contacto"/>
+                        <textarea id="message" name="entry.608682247" type="string" required placeholder="Mensaje"></textarea>
+                        <button id="send" type="submit" class="ud-main-btn">Envíanos un Mensaje</button>
+                    </form>
+
+                    <h3 id="success-msg" style="display:none;"> Su mensaje ha sido enviado</h3>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- contact-address-area-end -->
+
+{% endblock %}
+
+{% block body_javascripts %}
+        <script>
+            function postToForm() {
+                var field1 = $("#name").val();
+                var field2 = $("#email").val();
+                var field3 = $("#affair").val();
+                var field4 = $("#message").val();
+
+                $.ajax({
+                    url: "https://docs.google.com/forms/d/e/1FAIpQLSe2DNIWZVQugZ_G-rQCzO9EKpWr66ZXe8rbBBHtKYduKIeXyQ/formResponse?",
+					data: {"entry.1064235632": field1, "entry.1330832081": field2, "entry.1233483376": field3, "entry.608682247": field4},
+                    type: "POST",
+                    dataType: "xml",
+                    success: function(d)
+					{
+					},
+					error: function(x, y, z)
+						{
+
+							$('#success-msg').show();
+							$('#form').hide();
+							
+						}
+                });
+				return false;
+            }
+        </script>
+
+{% endblock %}

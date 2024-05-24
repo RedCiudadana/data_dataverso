@@ -6,6 +6,7 @@
     const ud_header = document.querySelector(".ud-header");
     const sticky = ud_header.offsetTop;
     const logo = document.querySelector(".navbar-brand img");
+    const redes = document.querySelectorAll(".header-icon .redes i");
 
     if (window.pageYOffset > sticky) {
       ud_header.classList.add("sticky");
@@ -15,9 +16,11 @@
 
     // === logo change
     if (ud_header.classList.contains("sticky")) {
-      logo.src = "assets/images/logo/logo-2.svg";
+      logo.src = "/assets/images/logo/LOGO-RED_NEGRO.png";
+      redes.forEach(icon => icon.style.color = "black");
     } else {
-      logo.src = "assets/images/logo/logo.svg";
+      logo.src = "/assets/images/logo/LOGO-RED_BLANCO.png";
+      redes.forEach(icon => icon.style.color = "");
     }
 
     // show or hide the back-top-top button
@@ -32,7 +35,7 @@
     }
   };
 
-  //===== close navbar-collapse when a  clicked
+  //===== close navbar-collapse when a clicked
   let navbarToggler = document.querySelector(".navbar-toggler");
   const navbarCollapse = document.querySelector(".navbar-collapse");
 
@@ -42,6 +45,7 @@
       navbarCollapse.classList.remove("show");
     })
   );
+
   navbarToggler.addEventListener("click", function () {
     navbarToggler.classList.toggle("active");
     navbarCollapse.classList.toggle("show");
