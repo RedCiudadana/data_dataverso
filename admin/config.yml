@@ -17,10 +17,28 @@ collections:
     fields: # The fields for each document, usually in front matter
       - { name: "title", label: "Nombre del Conjunto de Datos" }
       - { name: "descripcion", label: "Descripción" }
+      - {
+          name: "categorias",
+          label: "Categoría",
+          widget: "relation",
+          collection: "categorias",
+          searchFields: ["title"],
+          valueField: "title",
+          multiple: false,
+        }
       - { name: "json", label: "Archivo JSON", widget: "file", required: false }
       - { name: "csv", label: "Archivo CSV", widget: "file", required: false }
       - { name: "nombre_fuente", label: "Nombre de la Fuente" }
       - { name: "enlace_fuente", label: "Enlace de la Fuente" }
       - { name: "ano", label: "Año de Publicación" }
+  - name: "categorias"
+    label: "Categorías"
+    folder: "src/categorias"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Nombre de la Categoría", name: "title"}
+      - { name: "description", label: "Description" }
+      - { name: "icono", label: "Ícono", widget: "image" }
 
 show_preview_links: true
