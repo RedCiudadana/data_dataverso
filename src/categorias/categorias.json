@@ -1,0 +1,4 @@
+{
+    "tags": "categorias",
+    "layout": "layouts/categoria.njk"
+}
