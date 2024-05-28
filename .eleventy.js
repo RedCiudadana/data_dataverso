@@ -45,8 +45,15 @@ module.exports = function (eleventyConfig) {
     // Filtros avanzados
     eleventyConfig.addFilter("countdatasets", function(collections, category) {
         // Filtrar los conjuntos por la categoría dada
-        let filteredConjuntos = collections.conjuntos.filter(item => item.data.categorias === category);
+        let filteredConjuntos = collections.conjuntos.filter(item => item.data.categoria === category);
         // Retornar el número de conjuntos en la categoría, o 0 si no hay
         return filteredConjuntos.length || 0;
+    });
+
+    eleventyConfig.addFilter("filtrarPorCategoria", function(coleccion, id) {
+        if (!coleccion || !id) {
+            return [];
+        }
+        return coleccion.filter(item => item.data.categoria === id);
     });
 }

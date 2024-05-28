@@ -6,4 +6,56 @@
 
 {% block content %}
 
+    <!-- ====== Hero Start ====== -->
+    <section class="ud-hero" id="home">
+        <div class="container">
+          <div class="row mb-4 pb-4">
+            <div class="col-lg-12">
+              <div class="ud-hero-content wow fadeInUp" data-wow-delay=".2s">
+                <h1 class="ud-hero-title ">
+                  {{title}}
+                </h1>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- ====== Hero End ====== -->
+
+    <section id="" class="ud-section">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-12">
+                    {% for conjunto in collections.conjuntos | filtrarPorCategoria(title) %}
+                    <div class="ud-single-faq wow fadeInUp" data-wow-delay=".1s">
+                        <div class="accordion">
+                            <button
+                            class="ud-faq-btn collapsed"
+                            data-bs-toggle="collapse"
+                            data-bs-target="#collapseOne"
+                            >
+                            <span class="icon flex-shrink-0">
+                                <i class="lni lni-chevron-down"></i>
+                            </span>
+                            <span>{{conjunto.data.title}}</span>
+                            </button>
+                            <div id="collapseOne" class="accordion-collapse collapse">
+                            <div class="ud-faq-body">
+                                <a href="{{conjunto.data.json}}" download="{{conjunto.data.title | slug}}" class="ud-main-btn">json</a>
+                                <br><br>
+                                <p>Enlace para uso de api: <br><a href="https://data-dataverso.redciudadana.org{{conjunto.url}}" id="copyLink">https://data-dataverso.redciudadana.org{{conjunto.url}}</a></p>
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
 {% endblock %}

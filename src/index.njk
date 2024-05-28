@@ -109,32 +109,12 @@ permalink: "index.html"
             <hr>
             
             {% for categoria in collections.categorias %}
-            <!-- <div class="ud-single-faq wow fadeInUp" data-wow-delay=".1s">
-              <div class="accordion">
-                <button
-                  class="ud-faq-btn collapsed"
-                  data-bs-toggle="collapse"
-                  data-bs-target="#collapseOne"
-                >
-                  <span class="icon flex-shrink-0">
-                    <i class="lni lni-chevron-down"></i>
-                  </span>
-                  <span>{{conjunto.data.title}}</span>
-                </button>
-                <div id="collapseOne" class="accordion-collapse collapse">
-                  <div class="ud-faq-body">
-                    <a href="{{conjunto.data.json}}" download="{{conjunto.data.title | slug}}" class="ud-main-btn">json</a>
-                    <br><br>
-                    <<p>Enlace para uso de api: <br><a href="https://data-dataverso.netlify.app{{conjunto.url}}" id="copyLink">https://data-dataverso.netlify.app{{conjunto.url}}</a></p>>
-                    <p>Enlace para uso de api: <br><a href="https://data-dataverso.redciudadana.org{{conjunto.url}}" id="copyLink">https://data-dataverso.redciudadana.org{{conjunto.url}}</a></p>
-                  </div>
-                </div>
-              </div>
-            </div> -->
             <a href="{{categoria.url}}" class="categoria">
               <div><img src="{{categoria.data.icono}}">{{categoria.data.title}}</div>
-              {% set categoryCount = collections | countdatasets("categoria.data.title") %}
-              <div>{{categoryCount }}</div>
+              {% set categoryTitle = categoria.data.title %}
+              {% set categoryCount = collections | countdatasets(categoryTitle) %}
+              <div>{{ categoryCount }}</div>
+
             </a>
             {% endfor %}
 
