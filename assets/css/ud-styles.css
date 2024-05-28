@@ -2722,3 +2722,33 @@ p {
 .contact-links a:hover{
   color: var(--body-color);
 }
+
+hr{
+  height: 20px;
+  border-top: 1px solid black;
+}
+
+.categoria{
+  margin-bottom: 5px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 5px;
+  display: flex;
+  justify-content: space-between;
+  color: var(--body-color);
+  transition: 0.5s all ease;
+}
+
+.categoria:hover{
+  color: var(--heading-color);
+}
+
+.categoria div{
+  display: flex;
+  align-items: center;
+}
+
+.categoria div img{
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+}

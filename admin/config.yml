@@ -18,7 +18,7 @@ collections:
       - { name: "title", label: "Nombre del Conjunto de Datos" }
       - { name: "descripcion", label: "Descripción" }
       - {
-          name: "categorias",
+          name: "categoria",
           label: "Categoría",
           widget: "relation",
           collection: "categorias",

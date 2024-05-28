@@ -95,7 +95,7 @@ permalink: "index.html"
           <div class="col-lg-12">
             <div class="ud-section-title text-center mx-auto">
               <span>Categorías</span>
-              <h2>Nuestros Categorías</h2>
+              <h2>Nuestras Categorías</h2>
               <p>
                 Hecha un vistaso a nuestras categorías donde encontrarás los conjuntos de datos.
               </p>
@@ -105,8 +105,10 @@ permalink: "index.html"
 
         <div class="row">
           <div class="col-lg-6">
+            <h3>Categorías Disponibles</h3>
+            <hr>
             
-            {% for conjunto in collections.categorias %}
+            {% for categoria in collections.categorias %}
             <!-- <div class="ud-single-faq wow fadeInUp" data-wow-delay=".1s">
               <div class="accordion">
                 <button
@@ -129,6 +131,11 @@ permalink: "index.html"
                 </div>
               </div>
             </div> -->
+            <a href="{{categoria.url}}" class="categoria">
+              <div><img src="{{categoria.data.icono}}">{{categoria.data.title}}</div>
+              {% set categoryCount = collections | countdatasets("categoria.data.title") %}
+              <div>{{categoryCount }}</div>
+            </a>
             {% endfor %}
 
           </div>
