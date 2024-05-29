@@ -2784,3 +2784,7 @@ hr{
   display: flex;
   margin: 10px 0;
 }
+
+.api-url{
+  font-size: 13px;
+}
