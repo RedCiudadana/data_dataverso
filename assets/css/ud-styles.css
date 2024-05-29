@@ -2752,3 +2752,35 @@ hr{
   width: 20px;
   margin-right: 10px;
 }
+
+.code-block {
+    background-color: #f4f4f4;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 20px 0;
+    overflow-x: auto;
+}
+
+.cuadro-conjunto{
+  border: 1px solid #ccc;
+  padding: 3%;
+}
+
+.cuadro-conjunto-title{
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.cuadro-conjunto-title i,.cuadro-conjunto-title h4{
+  color: var(--heading-color);
+}
+
+.cuadro-conjunto-title i{
+  margin-right: 10px;
+}
+
+.cuadro-conjunto-body-buttons{
+  display: flex;
+  margin: 10px 0;
+}
