@@ -1,5 +1,5 @@
 ---
-title: Cuadro A10 Población de 4 a 29 que no asiste a educaci´n por inasistencia
+title: Cuadro A10 Población de 4 a 29 que no asiste a educación por inasistencia
 descripcion: Es el conjunto de datos de Cuadro A10 Población de 4 a 29 que no
   asiste a educaci´n por inasistencia
 categoria: Demografía y Población (Censo)

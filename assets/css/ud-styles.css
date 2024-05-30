@@ -2764,12 +2764,14 @@ hr{
 .cuadro-conjunto{
   border: 1px solid #ccc;
   padding: 3%;
+  height: 100%;
 }
 
 .cuadro-conjunto-title{
   display: flex;
   align-items: center;
   margin-bottom: 10px;
+  height: 80px;
 }
 
 .cuadro-conjunto-title i,.cuadro-conjunto-title h4{
@@ -2780,6 +2782,7 @@ hr{
   margin-right: 10px;
 }
 
+
 .cuadro-conjunto-body-buttons{
   display: flex;
   margin: 10px 0;
@@ -2787,4 +2790,19 @@ hr{
 
 .api-url{
   font-size: 13px;
+}
+
+.api-link-container {
+  background-color: #f8f9fa; /* Ajusta el color según tu diseño */
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  overflow-wrap: break-word;
+  word-break: break-all;
+}
+
+.api-url {
+  display: block;
+  max-width: 100%;
+  white-space: normal;
+  overflow-wrap: break-word;
 }

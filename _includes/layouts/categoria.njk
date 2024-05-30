@@ -65,8 +65,10 @@ fetchData();</code></pre>
 					<h2>Conjuntos de Datos</h2>
 					<hr>
 				</div>
-				{% for conjunto in collections.conjuntos | filtrarPorCategoria(title) %}
-                <div class="col-lg-6">
+			</div>
+			<div class="row">
+				{% for conjunto in collections.conjuntos | ordenarAlfabeticamente | filtrarPorCategoria(title) %}
+                <div class="col-lg-6 my-4">
 					<div class="cuadro-conjunto">
 						<div class="cuadro-conjunto-title">
 							<i class="fa-solid fa-database"></i>
@@ -82,7 +84,12 @@ fetchData();</code></pre>
 								<a href="{{conjunto.data.csv}}" download="{{conjunto.data.title | slug}}" class="ud-main-btn">csv</a>
 								{% endif %}
 							</div>
-							<p>Enlace para uso de api: <br><a href="https://data-dataverso.redciudadana.org{{conjunto.url}}" id="copyLink" class="api-url">https://data-dataverso.redciudadana.org{{conjunto.url}}</a></p>
+							<p>Enlace para uso de api: </p>
+							<div class="api-link-container">
+								<a href="https://data-dataverso.redciudadana.org{{conjunto.url}}" id="copyLink" class="api-url">
+								  https://data-dataverso.redciudadana.org{{conjunto.url}}
+								</a>
+							</div>
 						</div>
 					</div>
                 </div>

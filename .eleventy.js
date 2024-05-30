@@ -3,6 +3,7 @@ const now = new Date();
 const rmj = require('render-markdown-js');
 const path = require('path');
 const fs = require('fs');
+const naturalSort = require('javascript-natural-sort');
 
 module.exports = function (eleventyConfig) {
 
@@ -55,5 +56,9 @@ module.exports = function (eleventyConfig) {
             return [];
         }
         return coleccion.filter(item => item.data.categoria === id);
+    });
+
+    eleventyConfig.addFilter("ordenarAlfabeticamente", function(collection) {
+        return collection.sort((a, b) => naturalSort(a.data.title, b.data.title));
     });
 }
