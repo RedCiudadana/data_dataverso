@@ -1,9 +1,8 @@
 ---
-title: Cuadro A10 Población de 4 a 29 años que no asiste a educación popr inasistencia
-descripcion: Es el conjunto de datos de Cuadro A10 Población de 4 a 29 años que
-  no asiste a educación popr inasistencia
+title: Cuadro A11 Población de 7 o más por alfabetismo
+descripcion: Es el conjunto de datos de Cuadro A11 Población de 7 o más por alfabetismo
 categoria: Demografía y Población (Censo)
-json: /assets/conjuntos/cuadroa10_poblacion_de_4_a_29_anos_que_no_asiste_a_un_establecimiento_educativo_por_causa_principal_de_inasistencia.json
+json: /assets/conjuntos/cuadroa11_poblacion_de_7_anos_o_mas_por_alfabetismo_asistencia_escolar_y_lugar_de_estudio.json
 nombre_fuente: SEGEPLAN
 enlace_fuente: https://ranking.segeplan.gob.gt/visor/
 ano: "2021"
