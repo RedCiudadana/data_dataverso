@@ -1,6 +1,6 @@
 ---
-title: Finanzas y Presupuesto Municipal
-descripcion: Es el conjunto de datos de Finanzas y Presupuesto Municipal
+title: Ingresos Municipales
+descripcion: Es el conjunto de datos de Ingresos Municipales
 categoria: Finanzas y Presupuesto Municipal
 json: /assets/conjuntos/ingresos_municipales.json
 nombre_fuente: SEGEPLAN
