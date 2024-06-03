@@ -2623,12 +2623,16 @@ p {
   position: relative;
 }
 
-.search_bar input {
-  width: 80%;
-  margin-left: 10%;
+.search_bar #searchField {
   margin-bottom: 50px;
   height: 40px;
   padding-left: 40px; /* Add padding to leave space for the icon */
+  box-sizing: border-box; /* Ensure padding doesn't affect the total width */
+}
+
+.search_bar .search_button {
+  margin-bottom: 50px;
+  height: 40px;
   box-sizing: border-box; /* Ensure padding doesn't affect the total width */
 }
 

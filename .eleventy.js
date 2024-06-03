@@ -4,6 +4,7 @@ const rmj = require('render-markdown-js');
 const path = require('path');
 const fs = require('fs');
 const naturalSort = require('javascript-natural-sort');
+const searchFilter = require('./filters/searchFilter');
 
 module.exports = function (eleventyConfig) {
 
@@ -12,6 +13,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy('src');
     eleventyConfig.addPassthroughCopy('assets');
     eleventyConfig.addPassthroughCopy('admin');
+    eleventyConfig.addPassthroughCopy('filters');
 
     eleventyConfig.addFilter('read', function (relativePath) {
         // Construct the absolute path to the file
@@ -61,4 +63,20 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addFilter("ordenarAlfabeticamente", function(collection) {
         return collection.sort((a, b) => naturalSort(a.data.title, b.data.title));
     });
+
+    // busqueda
+
+    eleventyConfig.addFilter("search", searchFilter);
+
+    eleventyConfig.addFilter("rem_accent", function (string) {
+        return string.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+    })
+
+    eleventyConfig.addFilter("sub_string", function (string) {
+        return string.substring(0, 150);
+    })
+
+    eleventyConfig.addFilter("parse", function (string) {
+        return string.replace(/[\r\n]/gm, '').replace('•', '').replace('	', '').replace('	', '');
+    })
 }

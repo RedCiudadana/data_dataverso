@@ -6,6 +6,15 @@ permalink: "index.html"
 
 {% block head %}
 <title>Data Verso | Red Ciudadana</title>
+
+<script>
+  function passvalues(){
+      var busqueda = document.getElementById("searchField").value;
+      localStorage.setItem("busqueda",busqueda);
+      return false;
+  }
+
+</script>
 {% endblock %}
 
 {% block content %}
@@ -21,8 +30,9 @@ permalink: "index.html"
               <p class="ud-hero-desc">
                 Busca entre los conjuntos de datos abiertos disponibles
               </p>
-              <form action="#" class="search_bar">
-                <input type="text" id="searchInput" name="fname" placeholder="Buscar conjuntos...">
+              <form action="/resultados.html" class="search_bar d-flex justify-content-center">
+                <input style="width: 60%;" search="text" id="searchField" autocomplete="off" placeholder="Buscar conjuntos...">
+                <input style="width: 20%;" class="search_button" type="submit" onclick="passvalues();" value="Buscar" />
                 <i class="lupa fas fa-search"></i>
               </form>              
               <div class="row">
@@ -125,6 +135,8 @@ permalink: "index.html"
 {% endblock %}
 
 {% block body_javascripts %}
+
+
 <script>
   document.getElementById('copyLink').addEventListener('click', function() {
     // Create a temporary input element

@@ -1,0 +1,15 @@
+---
+permalink: '/search.json'
+---
+
+[
+  {% for conjunto in collections.conjuntos %} 
+  { 
+    "name":"{{ conjunto.data.title }}",
+    "name_search":"{{ conjunto.data.title | rem_accent | parse }}",
+    "descripcion":"{{ conjunto.data.descripcion}}",
+    "url":"{{ conjunto.url }}" 
+  }
+  {% if not loop.last %},{% endif %}
+  {% endfor %}
+]
