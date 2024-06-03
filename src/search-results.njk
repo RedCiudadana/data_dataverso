@@ -5,6 +5,15 @@ permalink: "resultados.html"
 
 {% block head %}
     <title>Data Verso | Resultados de Búsqueda</title>
+
+    <script>
+        function passvalues(){
+            var busqueda = document.getElementById("searchField").value;
+            localStorage.setItem("busqueda",busqueda);
+            return false;
+        }
+      
+      </script>
 {% endblock %}
 
 {% block content %}
@@ -17,6 +26,11 @@ permalink: "resultados.html"
                         <h1 class="ud-hero-title">
                         Resultados
                         </h1>
+                        <form action="/resultados.html" class="search_bar d-flex justify-content-center">
+                            <input style="width: 60%;" search="text" id="searchField" autocomplete="off" placeholder="Buscar conjuntos...">
+                            <input style="width: 20%;" class="search_button" type="submit" onclick="passvalues();" value="Buscar" />
+                            <i class="lupa fas fa-search"></i>
+                        </form>   
 
                     </div>
                 </div>
@@ -34,6 +48,6 @@ permalink: "resultados.html"
 
 {% endblock %}
 
-{% block javascripts %}
+{% block body_javascripts %}
     <script src="/assets/js/searchPage.js"></script>
 {% endblock %} 
