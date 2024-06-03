@@ -12,17 +12,19 @@ document.addEventListener('DOMContentLoaded', function(event) {
         .then(data_server => {
             data = data_server;
             results.innerHTML = '';
-            
-            if (search_term.length <= 0) return;
-            const match = new RegExp(`\\b${search_term}\\b`, 'gi');
 
-            // Filtrar tanto por nombre como por descripción y evitar duplicados
-            let result = data.filter((item, index, self) => 
-                match.test(item.name_search) || match.test(item.description) &&
-                index === self.findIndex((t) => (
-                    t.name_search === item.name_search && t.description === item.description
-                ))
-            );
+            if (search_term.length <= 0) return;
+            const match = new RegExp(`${search_term}`, 'i');
+
+            // Normalizar y filtrar los datos
+            let result = data.filter((item, index, self) => {
+                const name_normalized = item.name_search.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+                const description_normalized = item.description;
+                return (match.test(name_normalized) || match.test(description_normalized)) &&
+                       index === self.findIndex((t) => (
+                           t.name_search === item.name_search && t.description === item.description
+                       ));
+            });
 
             if (result.length === 0) {
                 const h1 = document.createElement('h1');
