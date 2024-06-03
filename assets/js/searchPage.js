@@ -19,10 +19,10 @@ document.addEventListener('DOMContentLoaded', function(event) {
             // Normalizar y filtrar los datos
             let result = data.filter((item, index, self) => {
                 const name_normalized = item.name_search.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
-                const description_normalized = item.description;
-                return (match.test(name_normalized) || match.test(description_normalized)) &&
+                const descripcion_normalized = item.descripcion.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+                return (match.test(name_normalized) || match.test(descripcion_normalized)) &&
                        index === self.findIndex((t) => (
-                           t.name_search === item.name_search && t.description === item.description
+                           t.name_search === item.name_search && t.descripcion === item.descripcion
                        ));
             });
 
@@ -53,8 +53,8 @@ document.addEventListener('DOMContentLoaded', function(event) {
                     const bodyDiv = document.createElement("div");
                     bodyDiv.classList.add("cuadro-conjunto-body");
 
-                    const pDescription = document.createElement("p");
-                    pDescription.textContent = e.description;
+                    const pdescripcion = document.createElement("p");
+                    pdescripcion.textContent = e.descripcion;
 
                     const buttonsDiv = document.createElement("div");
                     buttonsDiv.classList.add("cuadro-conjunto-body-buttons");
@@ -91,7 +91,7 @@ document.addEventListener('DOMContentLoaded', function(event) {
 
                     apiLinkContainer.appendChild(apiLink);
 
-                    bodyDiv.appendChild(pDescription);
+                    bodyDiv.appendChild(pdescripcion);
                     bodyDiv.appendChild(buttonsDiv);
                     bodyDiv.appendChild(apiLinkP);
                     bodyDiv.appendChild(apiLinkContainer);
