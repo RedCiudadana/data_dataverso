@@ -2,11 +2,13 @@
 permalink: '/search.json'
 ---
 [
-  {% for conjunto in collections.conjuntos %} 
+  {% for conjunto in collections.conjuntos | ordenarAlfabeticamente %} 
   { 
     "name": "{{ conjunto.data.title }}",
     "name_search": "{{ conjunto.data.title | rem_accent | parse }}",
     "descripcion": "{{ conjunto.data.descripcion }}",
+    "json": "{{ conjunto.data.json }}",
+    "csv": "{{ conjunto.data.csv }}",
     "url": "{{ conjunto.url }}" 
   }
   {% if not loop.last %},{% endif %}
