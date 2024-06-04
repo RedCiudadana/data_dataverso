@@ -43,6 +43,16 @@
     {% endblock %}
   </head>
   <body>
+    <!-- Preloader Start -->
+    <div id="preloader-active">
+      <div class="preloader d-flex align-items-center justify-content-center">
+        <div class="preloader-inner position-relative">
+          <div class="text-center">
+            <img src="/assets/images/loader.gif" style="width:50%;height:auto;margin:auto" alt="" />
+          </div>
+        </div>
+      </div>
+    </div>
     <!-- ====== Header Start ====== -->
     <header class="ud-header">
       <div class="container">
@@ -199,6 +209,24 @@
       }
     </script>
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+    <!-- Preloader -->
+    <script>
+      (function ($) {
+        ("use strict");
+        // Page loading
+        $(window).on("load", function () {
+          $("#preloader-active").delay(450).fadeOut("slow");
+          $("body").delay(450).css({
+            overflow: "visible"
+          });
+          $("#onloadModal").modal("show");
+        });
+      
+      })(jQuery);
+    </script>
 
 
     {% block body_javascripts %}
