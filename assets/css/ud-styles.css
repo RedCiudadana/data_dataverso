@@ -17,6 +17,7 @@
   --heading-color: #212b36;
   --primary-color: #383e47;
   --white: #ffffff;
+  --black: #000000;
 }
 
 body {
@@ -343,14 +344,12 @@ p {
 }
 
 .navbar-nav .nav-item > a:hover, .navbar-nav .nav-item > a.active {
-  color: var(--white);
   opacity: 0.5;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
   .navbar-nav .nav-item > a:hover, .navbar-nav .nav-item > a.active {
-    color: var(--primary-color);
-    opacity: 1;
+    opacity: 0.5;
   }
 }
 
@@ -397,7 +396,6 @@ p {
 }
 
 .navbar-nav .nav-item:hover > a {
-  color: var(--white);
   opacity: 0.5;
 }
 
@@ -530,7 +528,7 @@ p {
 }
 
 .ud-hero-content .ud-hero-title {
-  color: var(--white);
+  color: var(--black);
   font-weight: 700;
   font-size: 45px;
   line-height: 60px;
