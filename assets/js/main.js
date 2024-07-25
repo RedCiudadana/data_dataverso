@@ -24,7 +24,7 @@
       logo.src = "/assets/images/logo/LOGO-RED_NEGRO.png";
       redes.forEach(icon => icon.style.color = "black");
     } else {
-      logo.src = "/assets/images/logo/LOGO-RED_BLANCO.png";
+      logo.src = "/assets/images/logo/LOGO-RED_NEGRO.png";
       redes.forEach(icon => icon.style.color = "");
     }
 

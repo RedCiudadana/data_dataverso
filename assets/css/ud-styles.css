@@ -327,7 +327,7 @@ p {
 .navbar-nav .nav-item > a {
   font-size: 16px;
   font-weight: 400;
-  color: var(--white);
+  color: #000;
   -webkit-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s;
   padding: 25px 8px;
@@ -506,8 +506,9 @@ p {
 
 /* ===== Hero CSS ===== */
 .ud-hero {
-  background: var(--primary-color);
+  background: #dce7ee;
   padding-top: 180px;
+  padding-bottom: 100px;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -999,7 +1000,7 @@ p {
 .ud-faq {
   padding-top: 120px;
   padding-bottom: 90px;
-  background: #f3f4fe;
+  background: #e2eaf5;
   position: relative;
   z-index: 1;
 }
@@ -2655,9 +2656,9 @@ p {
 }
 
 .header-icon a{
-  color: #fff;
+  color: #000;
   margin: 0 5px;
-  transition: 0.5 all ease;
+  transition: 0.5s all ease;
 }
 
 .header-icon a:hover{
@@ -2830,4 +2831,53 @@ hr{
 .preloader img.jump {
   max-height: 100px;
   max-width: 100px;
+}
+
+.centered{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.linea_hr{
+  background-color: #91bdec;
+  width: 80px;
+  height: 5px;
+  margin: 15px auto;
+}
+
+.categoria_box{
+  background-color: #fff;
+  border-radius: 8px;
+  border-color: #ddd;
+  display: flex;
+  padding: 10px;
+  height: 100%;
+  box-shadow: 5px 5px 5px #ddd;
+  transition: 0.5s all ease;
+}
+
+.categoria_box img{
+  width: 80px;
+  height: 80px;
+}
+
+.categoria_box div{
+  padding: 10px;
+}
+
+.categoria_box:hover{
+  background-color: #231f20;
+}
+
+.categoria_box:hover div h5{
+  color: #fff;
+}
+
+.categoria_box:hover div p{
+  color: #fff;
+}
+
+.categoria_box:hover img{
+  filter: brightness(0) invert(1);
 }
