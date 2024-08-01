@@ -2846,6 +2846,7 @@ hr{
   background-color: #fff;
   border-radius: 8px;
   border-color: #ddd;
+  align-items: center;
   display: flex;
   padding: 10px;
   height: 100%;
@@ -2854,8 +2855,8 @@ hr{
 }
 
 .categoria_box img{
-  width: 80px;
-  height: 80px;
+  width: 75px;
+  height: 75px;
 }
 
 .categoria_box div{
